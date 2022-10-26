@@ -8,9 +8,9 @@
 </p>
 
 <!-- Badges -->
-[![English](https://img.shields.io/badge/English-click-blue)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/master/README.md)
-[![Español](https://img.shields.io/badge/Espa%C3%B1ol-click-orange)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/master/README.es.md)
-[![Português](https://img.shields.io/badge/Portugu%C3%AAs-click-brightgreen)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/master/README.pt-br.md)
+[![English](https://img.shields.io/badge/Translate-English-blue)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/master/README.md)
+[![Español](https://img.shields.io/badge/Translate-Espa%C3%B1ol-orange)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/master/README.es.md)
+[![Português](https://img.shields.io/badge/Translate-Portugu%C3%AAs-brightgreen)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/master/README.pt-br.md)
 
 ## About
 Contiene instrucciones de instalación, agenda y materiales de capacitación para el taller del Grupo de Trabajo Interinstitucional sobre el Agua (ISAT) realizado en Buenos Aires, Argentina, en noviembre de 2022. Taller organizado en colaboración con la Organización de los Estados Americanos (OEA) y el Comité Intergubernamental Coordinador de los Países de la Cuenca del Plata (CIC).
