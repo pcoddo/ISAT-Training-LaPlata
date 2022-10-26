@@ -7,20 +7,18 @@
     <em>Materiales para el evento de capacitación ISAT/CIC en Buenos Aires, Argentina, 2022</em>
 </p>
 
-<p>
-<sub>Cover image credit: https://commons.wikimedia.org/wiki/File:Rio_de_la_Plata_NASA_image.jpg</sub>
-</p>
-
 <!-- Badges -->
 [![English](https://img.shields.io/badge/English-click-blue)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/master/README.md)
-[![Português](https://img.shields.io/badge/Portugu%C3%AAs-click-brightgreen)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/master/README.pt-br.md)
 [![Español](https://img.shields.io/badge/Espa%C3%B1ol-click-orange)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/master/README.es.md)
-
+[![Português](https://img.shields.io/badge/Portugu%C3%AAs-click-brightgreen)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/master/README.pt-br.md)
 
 ## About
 Contiene instrucciones de instalación, agenda y materiales de capacitación para el taller del Grupo de Trabajo Interinstitucional sobre el Agua (ISAT) realizado en Buenos Aires, Argentina, en noviembre de 2022. Taller organizado en colaboración con la Organización de los Estados Americanos (OEA) y el Comité Intergubernamental Coordinador de los Países de la Cuenca del Plata (CIC).
 
-## Installation
+## Agenda
+![Agenda](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/agenda_10.26.22.jpg)
+
+## Instalación
 
 Clone repository to your device:
 ```shell
@@ -41,8 +39,9 @@ TBD
 **Packages:**
 TBD
   
-## Acknowledgements
-TBD
+## Agradecimientos
+Estos materiales se basan en capacitaciones previas desarrolladas por el Programa de Capacitación de Detección Remota Avanzada de la NASA [(ARSET)](https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset). Un agradecimiento especial a [Dr. Amita Mehta](https://sciences.gsfc.nasa.gov/sed/bio/amita.v.mehta), [Dra. Erika Podest](https://science.jpl.nasa.gov/people/podest/), [Dr. Ana Prados](https://jcet.umbc.edu/jcet-faculty/person/ed05369/) y al resto del equipo de ARSET por proporcionar esos materiales!
+
 
 
 <p align="center">
