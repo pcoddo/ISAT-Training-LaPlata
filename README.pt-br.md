@@ -4,7 +4,7 @@
 # **ISAT-Training-LaPlata**
 </p>
 <p align="left">
-    <em>Materials for ISAT/CIC training event in Buenos Aires, Argentina, 2022</em>
+    <em>Materiais para evento de treinamento ISAT/CIC em Buenos Aires, Argentina, 2022</em>
 </p>
 
 <p>
@@ -18,7 +18,7 @@
 
 
 ## About
-Contains installation instructions, agenda, and training materials for the Interagency Water Working Group (ISAT) workshop conducted in Buenos Aires, Argentina, November 2022. Workshop organized in partnership with the Organization of American States (OAS) and the Comité Intergubernamental Coordinador de los Países de la Cuenca del Plata (CIC).
+Contém instruções de instalação, agenda e materiais de treinamento para o workshop do Interagency Water Working Group (ISAT) realizado em Buenos Aires, Argentina, em novembro de 2022. Workshop organizado em parceria com a Organização dos Estados Americanos (OEA) e o Comité Intergubernamental Coordinador de los Países de la Cuenca del Plata (CIC).
 
 ## Installation
 
