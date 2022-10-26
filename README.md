@@ -15,8 +15,10 @@
 ## About
 Contains installation instructions, agenda, and training materials for the Interagency Water Working Group (ISAT) workshop conducted in Buenos Aires, Argentina, November 2022. Workshop organized in partnership with the Organization of American States (OAS) and the Comité Intergubernamental Coordinador de los Países de la Cuenca del Plata (CIC).
 
-## Installation
+## Agenda
+![Agenda](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/agenda_10.26.22.jpg)
 
+## Installation
 Clone repository to your device:
 ```shell
 git clone https://github.com/pcoddo/ISAT-Training-LaPlata.git
