@@ -7,15 +7,10 @@
     <em>Materials for ISAT/CIC training event in Buenos Aires, Argentina, 2022</em>
 </p>
 
-<p>
-<sub>Cover image credit: https://commons.wikimedia.org/wiki/File:Rio_de_la_Plata_NASA_image.jpg</sub>
-</p>
-
 <!-- Badges -->
 [![English](https://img.shields.io/badge/English-click-blue)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/master/README.md)
-[![Português](https://img.shields.io/badge/Portugu%C3%AAs-click-brightgreen)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/master/README.pt-br.md)
 [![Español](https://img.shields.io/badge/Espa%C3%B1ol-click-orange)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/master/README.es.md)
-
+[![Português](https://img.shields.io/badge/Portugu%C3%AAs-click-brightgreen)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/master/README.pt-br.md)
 
 ## About
 Contains installation instructions, agenda, and training materials for the Interagency Water Working Group (ISAT) workshop conducted in Buenos Aires, Argentina, November 2022. Workshop organized in partnership with the Organization of American States (OAS) and the Comité Intergubernamental Coordinador de los Países de la Cuenca del Plata (CIC).
@@ -42,7 +37,7 @@ TBD
 TBD
   
 ## Acknowledgements
-TBD
+These materials draw on previous trainings developed by the NASA Advanced Remote Sensing Training [(ARSET)](https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset) Program. Special thanks to [Dr. Amita Mehta](https://sciences.gsfc.nasa.gov/sed/bio/amita.v.mehta), [Dr. Erika Podest](https://science.jpl.nasa.gov/people/podest/), [Dr. Ana Prados](https://jcet.umbc.edu/jcet-faculty/person/ed05369/) and the rest of the ARSET team for providing those materials!
 
 
 <p align="center">
