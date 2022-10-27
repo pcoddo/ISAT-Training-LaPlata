@@ -71,7 +71,7 @@ Operating system:
   <img src="https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/win-install-path.PNG" width="400">
 </p>
 
-7. Click **Install**. If you want to watch the packages Anaconda is Miniconda, click Show Details.
+7. Click **Install**. If you want to watch the packages Miniconda is installing, click Show Details.
 
 ### 2.3. Download training materials
 1. Open terminal window ("Anaconda Prompt" on Windows, "Terminal" on Mac)
@@ -82,10 +82,10 @@ Operating system:
 conda config --add channels conda-forge
 conda install -c conda-forge git
 ```
-When asked to proceed, type **"y"**
+When asked to Proceed, type **"y"**
 
 
-3. Navigate to desired working directory:
+3. Navigate to desired working directory (e.g. "C:\Users\Name\Documents\Training_materials"):
 ```shell
 cd Documents/
 cd Training_materials/
@@ -102,7 +102,7 @@ Create conda environment using provided `environment.yml` file:
 conda env create -f environment.yml
 ```
 
-This environment should install all necessary software and packages for the training. Depending on internet and processor speeds, this may take several minutes.
+This environment should install all necessary software and packages for the training. Depending on internet and processor speeds, **this may take several minutes.**
 
 Activate new environment:
 ```shell
