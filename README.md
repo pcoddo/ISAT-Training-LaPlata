@@ -30,7 +30,473 @@ Contains installation instructions, agenda, and training materials for the Inter
 
 ---
 ## 1. Training Agenda
-![Agenda](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/agenda_10.26.22.jpg)
+<!--- ![Agenda](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/agenda_10.26.22.jpg) --->
+#### Day 1: Monday, November 14
+<table style="text-align:left">
+    <colgroup>
+        <col style="width: 250px;" />
+        <col style="width: 250px;" />
+        <col style="width: 250px;" />
+        <col style="width: 250px;" />
+    </colgroup>
+    <tr>
+        <th colspan="4">Introductions</th>
+    </tr>
+    <tr>
+        <th>Time</th>
+        <th>Title and Topics</th>
+        <th>Type</td>
+        <th>Presenter</th>
+    </tr>
+    <tr>
+        <td>9:00-10:30</td>
+        <td>Opening Session</td>
+        <td>Discussion</td>
+        <td>CIC</td>
+    </tr>
+    <tr>
+        <td>10:30-11:30</td>
+        <td colspan="3">Break</td>
+    </tr>
+    <tr>
+        <td>11:00-12:00</td>
+        <td>Introduction to the ISAT Partnership</td>
+        <td>Discussion</td>
+        <td>ISAT</td>
+    </tr>
+    <tr>
+        <td>12:00-1:00</td>
+        <td colspan="3">Lunch</td>
+    </tr>
+</table>
+
+<table style="text-align:left">
+    <colgroup>
+        <col style="width: 250px;" />
+        <col style="width: 250px;" />
+        <col style="width: 250px;" />
+        <col style="width: 250px;" />
+    </colgroup>
+    <tr>
+        <th colspan="4">Session 1: Introduction to Hydrological Remote Sensing</th>
+    </tr>
+    <tr>
+        <th>Time</th>
+        <th>Title and Topics</th>
+        <th>Type</td>
+        <th>Presenter</th>
+    </tr>
+    <tr>
+        <td>1:00-2:00</td>
+        <td>Introduction to Remote Sensing Principles</td>
+        <td>Presentation</td>
+        <td>NASA</td>
+    </tr>
+    <tr>
+        <td>2:00-3:00</td>
+        <td>Overview of Land Cover Remote Sensing</td>
+        <td>Presentation</td>
+        <td>NASA</td>
+    </tr>
+    <tr>
+        <td>3:00-3:30</td>
+        <td colspan="3">Break</td>
+    </tr>
+    <tr>
+        <td>3:30-4:30</td>
+        <td>Accessing and Examining Land Cover</td>
+        <td>Exercise</td>
+        <td>NASA</td>
+    </tr>
+    <tr>
+        <td>4:30-5:00</td>
+        <td>End-of-day Discussion</td>
+        <td>Discussion</td>
+        <td>ISAT</td>
+    </tr>
+    <tr>
+        <td>5:00-6:00</td>
+        <td>Opening Day Welcome Reception</td>
+        <td>Event</td>
+        <td>CIC</td>
+    </tr>
+</table>
+
+#### Day 2: Tuesday, November 15</td>
+
+<table style="text-align:left">
+    <colgroup>
+        <col style="width: 250px;" />
+        <col style="width: 250px;" />
+        <col style="width: 250px;" />
+        <col style="width: 250px;" />
+    </colgroup>
+    <tr>
+        <th colspan="4">Session 2A: Precipitation</th>
+    </tr>
+    <tr>
+        <th>Time</th>
+        <th>Title and Topics</th>
+        <th>Type</td>
+        <th>Presenter</th>
+    </tr>
+    <tr>
+        <td>9:00-9:15</td>
+        <td>Welcome/Agenda</td>
+        <td>Discussion</td>
+        <td>ISAT</td>
+    </tr>
+    <tr>
+        <td>9:15-10:00</td>
+        <td>GPM Mission Overview</td>
+        <td>Presentation</td>
+        <td>University of Virginia (UVA)</td>
+    </tr>
+    <tr>
+        <td>10:00-11:00</td>
+        <td>Precipitation Analysis and Discussion</td>
+        <td>Excercise</td>
+        <td>UVA</td>
+    </tr>
+    <tr>
+        <td>11:00-11:30</td>
+        <td colspan="3">Break</td>
+    </tr>
+    <tr>
+        <td>11:30-12:00</td>
+        <td>Introduction to MODIS</td>
+        <td>Presentation</td>
+        <td>NASA</td>
+    </tr>
+    <tr>
+        <td>12:00-1:00</td>
+        <td>Access &amp; Analysis of MODIS NDVI</td>
+        <td>Excercise</td>
+        <td>NASA</td>
+    </tr>
+    <tr>
+        <td>1:00-2:00</td>
+        <td colspan="3">Lunch</td>
+    </tr>
+</table>
+
+<table style="text-align:left">
+    <colgroup>
+        <col style="width: 250px;" />
+        <col style="width: 250px;" />
+        <col style="width: 250px;" />
+        <col style="width: 250px;" />
+    </colgroup>
+    <tr>
+        <th colspan="4">Session 2B: Soil Moisture &amp; Evapotranspiration</th>
+    </tr>
+    <tr>
+        <th>Time</th>
+        <th>Title and Topics</th>
+        <th>Type</td>
+        <th>Presenter</th>
+    </tr>
+    <tr>
+        <td>2:00-2:30</td>
+        <td>Introduction to SMAP</td>
+        <td>Presentation</td>
+        <td>NASA</td>
+    </tr>
+    <tr>
+        <td>2:30-3:30</td>
+        <td>SMAP Data Access &amp; Analysis</td>
+        <td>Exercise</td>
+        <td>NASA</td>
+    </tr>
+    <tr>
+        <td>3:30-4:00</td>
+        <td colspan="3">Break</td>
+    </tr>
+    <tr>
+        <td>4:00-4:30</td>
+        <td>Introduction to Evapotranspiration Access</td>
+        <td>Presentation</td>
+        <td>USACE</td>
+    </tr>
+    <tr>
+        <td>4:30-5:00</td>
+        <td>Access Landsat-Based ET</td>
+        <td>Exercise</td>
+        <td>USACE</td>
+    </tr>
+    <tr>
+        <td>5:00-5:30</td>
+        <td>Questions/End-of-day Discussion</td>
+        <td>Discussion</td>
+        <td>ISAT</td>
+    </tr>
+</table>
+
+#### Day 3: Wednesday, November 16
+<table style="text-align:left">
+    <colgroup>
+        <col style="width: 250px;" />
+        <col style="width: 250px;" />
+        <col style="width: 250px;" />
+        <col style="width: 250px;" />
+    </colgroup>
+    <tr>
+        <th colspan="4">Session 3A: Water Height / Aerial Extent</th>
+    </tr>
+    <tr>
+        <th>Time</th>
+        <th>Title and Topics</th>
+        <th>Type</td>
+        <th>Presenter</th>
+    </tr>
+    <tr>
+        <td>9:00-9:15</td>
+        <td>Welcome/Agenda</td>
+        <td>Discussion</td>
+        <td>ISAT</td>
+    </tr>
+    <tr>
+        <td>9:15-10:00</td>
+        <td>Introduction to MOGWAI</td>
+        <td>Presentation</td>
+        <td>USACE</td>
+    </tr>
+    <tr>
+        <td>10:00-11:00</td>
+        <td>MOGWAI Example</td>
+        <td>Exercise</td>
+        <td>USACE</td>
+    </tr>
+    <tr>
+        <td>11:00-11:30</td>
+        <td>Break</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>11:30-12:00</td>
+        <td>Introduction to AWS</td>
+        <td>Presentation</td>
+        <td>Amazon Web Services (AWS)</td>
+    </tr>
+    <tr>
+        <td>12:00-12:30</td>
+        <td>Q&amp;A</td>
+        <td>Discussion</td>
+        <td>ISAT</td>
+    </tr>
+    <tr>
+        <td>12:30-1:30</td>
+        <td colspan="3">Lunch</td>
+    </tr>
+</table>
+
+<table style="text-align:left">
+    <colgroup>
+        <col style="width: 250px;" />
+        <col style="width: 250px;" />
+        <col style="width: 250px;" />
+        <col style="width: 250px;" />
+    </colgroup>
+    <tr>
+        <th colspan="4">Session 3B: Water Quality</th>
+    </tr>
+    <tr>
+        <th>Time</th>
+        <th>Title and Topics</th>
+        <th>Type</td>
+        <th>Presenter</th>
+    </tr>
+    <tr>
+        <td>1:30-2:00</td>
+        <td>Introduction to Water Quality Remote Sensing</td>
+        <td>Presentation</td>
+        <td>NASA</td>
+    </tr>
+    <tr>
+        <td>2:00-3:00</td>
+        <td>Water Quality Remote Sensing Applications</td>
+        <td>Exercise</td>
+        <td>NASA</td>
+    </tr>
+    <tr>
+        <td>3:00-3:30</td>
+        <td colspan="3">Break</td>
+    </tr>
+    <tr>
+        <td>3:30-4:00</td>
+        <td>Freshwater Health Index</td>
+        <td>Presentation</td>
+        <td>Conservation International (CI)</td>
+    </tr>
+    <tr>
+        <td>4:00-4:30</td>
+        <td>Q&amp;A</td>
+        <td>Discussion</td>
+        <td>ISAT</td>
+    </tr>
+    <tr>
+        <td>4:30-5:00</td>
+        <td>Questions/End-of-day Discussion</td>
+        <td>Discussion</td>
+        <td>ISAT</td>
+    </tr>
+</table>
+
+#### Day 4: Thursday, November 17
+<table style="text-align:left">
+    <colgroup>
+        <col style="width: 250px;" />
+        <col style="width: 250px;" />
+        <col style="width: 250px;" />
+        <col style="width: 250px;" />
+    </colgroup>
+    <tr>
+        <th colspan="4">Field Visit</th>
+    </tr>
+    <tr>
+        <th>Time</th>
+        <th>Title and Topics</th>
+        <th>Type</td>
+        <th>Presenter</th>
+    </tr>
+    <tr>
+        <td>9:00-1:00</td>
+        <td>INA's Laboratory and Field Visit</td>
+        <td>Field Visit</td>
+        <td>CIC</td>
+    </tr>
+    <tr>
+        <td>1:00-2:00</td>
+        <td colspan="3">Lunch</td>
+    </tr>
+</table>
+
+<table style="text-align:left">
+    <colgroup>
+        <col style="width: 250px;" />
+        <col style="width: 250px;" />
+        <col style="width: 250px;" />
+        <col style="width: 250px;" />
+    </colgroup>
+    <tr>
+        <th colspan="4">Session 4: Introduction to Land Surface Modeling</th>
+    </tr>
+        <th>Time</th>
+        <th>Title and Topics</th>
+        <th>Type</td>
+        <th>Presenter</th>
+    </tr>
+    <tr>
+        <td>2:00-2:45</td>
+        <td>Overview of Global Land Data Assimilation (GLDAS)</td>
+        <td>Presentation</td>
+        <td>USACE</td>
+    </tr>
+    <tr>
+        <td>2:45-3:30</td>
+        <td>Summary of Surface Water Budget Components</td>
+        <td>Presentation</td>
+        <td>UVA</td>
+    </tr>
+    <tr>
+        <td>3:30-4:00</td>
+        <td colspan="3">Break</td>
+    </tr>
+    <tr>
+        <td>4:00-5:00</td>
+        <td>Access &amp; Analysis of GLDAS Runoff </td>
+        <td>Exercise</td>
+        <td>USACE</td>
+    </tr>
+    <tr>
+        <td>5:00-5:30</td>
+        <td>Questions/End-of-day Discussion</td>
+        <td>Discussion</td>
+        <td>ISAT</td>
+    </tr>
+</table>
+
+#### Day 5: Friday, November 18
+<table style="text-align:left">
+    <colgroup>
+        <col style="width: 250px;" />
+        <col style="width: 250px;" />
+        <col style="width: 250px;" />
+        <col style="width: 250px;" />
+    </colgroup>
+    <tr>
+        <th colspan="4">Session 5A: Introduction to Modeling Frameworks</th>
+    </tr>
+    <tr>
+        <th>Time</th>
+        <th>Title and Topics</th>
+        <th>Type</td>
+        <th>Presenter</th>
+    </tr>
+    <tr>
+        <td>9:00-9:15</td>
+        <td>Welcome/Agenda</td>
+        <td>Discussion</td>
+        <td>ISAT</td>
+    </tr>
+    <tr>
+        <td>9:15-10:30</td>
+        <td>Introduction to SWAT-Online &amp; NASAaccess</td>
+        <td>Presentation</td>
+        <td>NASA</td>
+    </tr>
+    <tr>
+        <td>10:30-11:00</td>
+        <td colspan="3">Break</td>
+    </tr>
+    <tr>
+        <td>11:00-12:00</td>
+        <td>Introduction to Hydrologic Modeling System (HEC-HMS)</td>
+        <td>Presentation</td>
+        <td>USACE</td>
+    </tr>
+    <tr>
+        <td>12:00-1:00</td>
+        <td>Introduciton to NASA's Land Information System (LIS)</td>
+        <td>Presentation</td>
+        <td>NASA</td>
+    </tr>
+    <tr>
+        <td>1:00-2:00</td>
+        <td colspan="3">Lunch</td>
+    </tr>
+</table>
+
+<table style="text-align:left">
+    <colgroup>
+        <col style="width: 250px;" />
+        <col style="width: 250px;" />
+        <col style="width: 250px;" />
+        <col style="width: 250px;" />
+    </colgroup>
+    <tr>
+        <th colspan="4">Session 5B: Training Debrief &amp; Future Directions</th>
+    </tr>
+    <tr>
+        <th>Time</th>
+        <th>Title and Topics</th>
+        <th>Type</td>
+        <th>Presenter</th>
+    </tr>
+    <tr>
+        <td>2:00-4:00</td>
+        <td>Training Debrief (Reflections on the week, Directions for future trainings)</td>
+        <td>Discussion</td>
+        <td>ISAT/CIC</td>
+    </tr>
+    <tr>
+        <td>4:00</td>
+        <td>Close Out</td>
+        <td>Discussion</td>
+        <td>ISAT/CIC</td>
+    </tr>
+</table>
 
 ## 2. Installation Instructions
 ### 2.1. Requirements
