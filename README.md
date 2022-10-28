@@ -31,6 +31,9 @@ Contains installation instructions, agenda, and training materials for the Inter
 ---
 ## 1. Training Agenda
 <!--- ![Agenda](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/agenda_10.26.22.jpg) --->
+<details open>
+  <summary>Click to collapse agenda</summary>
+  
 #### Day 1: Monday, November 14
 <table style="text-align:left">
     <tr>
@@ -437,6 +440,7 @@ Contains installation instructions, agenda, and training materials for the Inter
         <td>ISAT/CIC</td>
     </tr>
 </table>
+</details>
 
 ## 2. Installation Instructions
 ### 2.1. Requirements
