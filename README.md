@@ -33,20 +33,14 @@ Contains installation instructions, agenda, and training materials for the Inter
 <!--- ![Agenda](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/agenda_10.26.22.jpg) --->
 #### Day 1: Monday, November 14
 <table style="text-align:left">
-    <colgroup>
-        <col style="width: 250px;" />
-        <col style="width: 250px;" />
-        <col style="width: 250px;" />
-        <col style="width: 250px;" />
-    </colgroup>
     <tr>
         <td colspan="4">Introductions</th>
     </tr>
     <tr>
         <th>Time</th>
-        <th>Title and Topics</th>
-        <th>Type</td>
-        <th>Presenter</th>
+        <th>Title and Topics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
+        <th>Type&emsp;&emsp;&emsp;&emsp;</td>
+        <th>Presenter&emsp;&emsp;</th>
     </tr>
     <tr>
         <td>09:00-10:30</td>
@@ -71,20 +65,14 @@ Contains installation instructions, agenda, and training materials for the Inter
 </table>
 
 <table style="text-align:left">
-    <colgroup>
-        <col style="width: 250px;" />
-        <col style="width: 250px;" />
-        <col style="width: 250px;" />
-        <col style="width: 250px;" />
-    </colgroup>
     <tr>
         <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_1"><b>Session 1: Introduction to Hydrological Remote Sensing</b></a></th>
     </tr>
     <tr>
         <th>Time</th>
-        <th>Title and Topics</th>
-        <th>Type</td>
-        <th>Presenter</th>
+        <th>Title and Topics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
+        <th>Type&emsp;&emsp;&emsp;&emsp;</td>
+        <th>Presenter&emsp;&emsp;</th>
     </tr>
     <tr>
         <td>13:00-14:00</td>
@@ -125,20 +113,14 @@ Contains installation instructions, agenda, and training materials for the Inter
 #### Day 2: Tuesday, November 15</td>
 
 <table style="text-align:left">
-    <colgroup>
-        <col style="width: 250px;" />
-        <col style="width: 250px;" />
-        <col style="width: 250px;" />
-        <col style="width: 250px;" />
-    </colgroup>
     <tr>
         <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_2A"><b>Session 2A: Precipitation</b></a></th>
     </tr>
     <tr>
         <th>Time</th>
-        <th>Title and Topics</th>
-        <th>Type</td>
-        <th>Presenter</th>
+        <th>Title and Topics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
+        <th>Type&emsp;&emsp;&emsp;&emsp;</td>
+        <th>Presenter&emsp;&emsp;</th>
     </tr>
     <tr>
         <td>09:00-09:15</td>
@@ -150,7 +132,7 @@ Contains installation instructions, agenda, and training materials for the Inter
         <td>09:15-10:00</td>
         <td>GPM Mission Overview</td>
         <td>Presentation</td>
-        <td>University of Virginia (UVA)</td>
+        <td>UVA</td>
     </tr>
     <tr>
         <td>10:00-11:00</td>
@@ -181,20 +163,14 @@ Contains installation instructions, agenda, and training materials for the Inter
 </table>
 
 <table style="text-align:left">
-    <colgroup>
-        <col style="width: 250px;" />
-        <col style="width: 250px;" />
-        <col style="width: 250px;" />
-        <col style="width: 250px;" />
-    </colgroup>
     <tr>
         <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_2B"><b>Session 2B: Soil Moisture &amp; Evapotranspiration</b></a></th>
     </tr>
     <tr>
         <th>Time</th>
-        <th>Title and Topics</th>
-        <th>Type</td>
-        <th>Presenter</th>
+        <th>Title and Topics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
+        <th>Type&emsp;&emsp;&emsp;&emsp;</td>
+        <th>Presenter&emsp;&emsp;</th>
     </tr>
     <tr>
         <td>14:00-14:30</td>
@@ -234,20 +210,14 @@ Contains installation instructions, agenda, and training materials for the Inter
 
 #### Day 3: Wednesday, November 16
 <table style="text-align:left">
-    <colgroup>
-        <col style="width: 250px;" />
-        <col style="width: 250px;" />
-        <col style="width: 250px;" />
-        <col style="width: 250px;" />
-    </colgroup>
     <tr>
         <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_3A"><b>Session 3A: Water Height / Aerial Extent</b></a></th>
     </tr>
     <tr>
         <th>Time</th>
-        <th>Title and Topics</th>
-        <th>Type</td>
-        <th>Presenter</th>
+        <th>Title and Topics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
+        <th>Type&emsp;&emsp;&emsp;&emsp;</td>
+        <th>Presenter&emsp;&emsp;</th>
     </tr>
     <tr>
         <td>09:00-09:15</td>
@@ -277,7 +247,7 @@ Contains installation instructions, agenda, and training materials for the Inter
         <td>11:30-12:00</td>
         <td>Introduction to AWS</td>
         <td>Presentation</td>
-        <td>Amazon Web Services (AWS)</td>
+        <td>AWS</td>
     </tr>
     <tr>
         <td>12:00-12:30</td>
@@ -292,20 +262,14 @@ Contains installation instructions, agenda, and training materials for the Inter
 </table>
 
 <table style="text-align:left">
-    <colgroup>
-        <col style="width: 250px;" />
-        <col style="width: 250px;" />
-        <col style="width: 250px;" />
-        <col style="width: 250px;" />
-    </colgroup>
     <tr>
         <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_3B"><b>Session 3B: Water Quality</b></a></th>
     </tr>
     <tr>
         <th>Time</th>
-        <th>Title and Topics</th>
-        <th>Type</td>
-        <th>Presenter</th>
+        <th>Title and Topics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
+        <th>Type&emsp;&emsp;&emsp;&emsp;</td>
+        <th>Presenter&emsp;&emsp;</th>
     </tr>
     <tr>
         <td>13:30-14:00</td>
@@ -324,19 +288,19 @@ Contains installation instructions, agenda, and training materials for the Inter
         <td colspan="3">Break</td>
     </tr>
     <tr>
-        <td>15:30-4:00</td>
+        <td>15:30-16:00</td>
         <td>Freshwater Health Index</td>
         <td>Presentation</td>
-        <td>Conservation International (CI)</td>
+        <td>CI</td>
     </tr>
     <tr>
-        <td>4:00-4:30</td>
+        <td>16:00-16:30</td>
         <td>Q&amp;A</td>
         <td>Discussion</td>
         <td>ISAT</td>
     </tr>
     <tr>
-        <td>4:30-5:00</td>
+        <td>16:30-17:00</td>
         <td>Questions/End-of-day Discussion</td>
         <td>Discussion</td>
         <td>ISAT</td>
@@ -345,47 +309,35 @@ Contains installation instructions, agenda, and training materials for the Inter
 
 #### Day 4: Thursday, November 17
 <table style="text-align:left">
-    <colgroup>
-        <col style="width: 250px;" />
-        <col style="width: 250px;" />
-        <col style="width: 250px;" />
-        <col style="width: 250px;" />
-    </colgroup>
     <tr>
         <td colspan="4">Field Visit</th>
     </tr>
     <tr>
         <th>Time</th>
-        <th>Title and Topics</th>
-        <th>Type</td>
-        <th>Presenter</th>
+        <th>Title and Topics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
+        <th>Type&emsp;&emsp;&emsp;&emsp;</td>
+        <th>Presenter&emsp;&emsp;</th>
     </tr>
     <tr>
-        <td>09:00-115:00</td>
+        <td>09:00-13:00</td>
         <td>INA's Laboratory and Field Visit</td>
         <td>Field Visit</td>
         <td>CIC</td>
     </tr>
     <tr>
-        <td>1:00-14:00</td>
+        <td>13:00-14:00</td>
         <td colspan="3">Lunch</td>
     </tr>
 </table>
 
 <table style="text-align:left">
-    <colgroup>
-        <col style="width: 250px;" />
-        <col style="width: 250px;" />
-        <col style="width: 250px;" />
-        <col style="width: 250px;" />
-    </colgroup>
     <tr>
         <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_4"><b>Session 4: Introduction to Land Surface Modeling</b></a></th>
-    </tr>
+    <tr>
         <th>Time</th>
-        <th>Title and Topics</th>
-        <th>Type</td>
-        <th>Presenter</th>
+        <th>Title and Topics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
+        <th>Type&emsp;&emsp;&emsp;&emsp;</td>
+        <th>Presenter&emsp;&emsp;</th>
     </tr>
     <tr>
         <td>14:00-14:45</td>
@@ -419,20 +371,14 @@ Contains installation instructions, agenda, and training materials for the Inter
 
 #### Day 5: Friday, November 18
 <table style="text-align:left">
-    <colgroup>
-        <col style="width: 250px;" />
-        <col style="width: 250px;" />
-        <col style="width: 250px;" />
-        <col style="width: 250px;" />
-    </colgroup>
     <tr>
         <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_5A"><b>Session 5A: Introduction to Modeling Frameworks</b></a></th>
     </tr>
     <tr>
         <th>Time</th>
-        <th>Title and Topics</th>
-        <th>Type</td>
-        <th>Presenter</th>
+        <th>Title and Topics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
+        <th>Type&emsp;&emsp;&emsp;&emsp;</td>
+        <th>Presenter&emsp;&emsp;</th>
     </tr>
     <tr>
         <td>09:00-09:15</td>
@@ -469,24 +415,18 @@ Contains installation instructions, agenda, and training materials for the Inter
 </table>
 
 <table style="text-align:left">
-    <colgroup>
-        <col style="width: 250px;" />
-        <col style="width: 250px;" />
-        <col style="width: 250px;" />
-        <col style="width: 250px;" />
-    </colgroup>
     <tr>
         <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_5B"><b>Session 5B: Training Debrief &amp; Future Directions</b></a></th>
     </tr>
     <tr>
         <th>Time</th>
-        <th>Title and Topics</th>
-        <th>Type</td>
-        <th>Presenter</th>
+        <th>Title and Topics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
+        <th>Type&emsp;&emsp;&emsp;&emsp;</td>
+        <th>Presenter&emsp;&emsp;</th>
     </tr>
     <tr>
         <td>14:00-16:00</td>
-        <td>Training Debrief (Reflections on the week, Directions for future trainings)</td>
+        <td>Training Debrief</td>
         <td>Discussion</td>
         <td>ISAT/CIC</td>
     </tr>
