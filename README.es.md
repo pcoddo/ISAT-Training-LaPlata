@@ -68,7 +68,7 @@ Contains installation instructions, agenda, and training materials for the Inter
 
 <table style="text-align:left">
     <tr>
-        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_1"><b>Sesión 1: Introducción a la Teledetección Hidrológica< /b></a></th>
+        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_1"><b>Sesión 1: Introducción a la Teledetección Hidrológica</b></a></th>
     </tr>
     <tr>
         <th>Tiempo</th>
@@ -116,7 +116,7 @@ Contains installation instructions, agenda, and training materials for the Inter
 
 <table style="text-align:left">
     <tr>
-        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_2A"><b>Sesión 2A: Precipitación</b>< /a></th>
+        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_2A"><b>Sesión 2A: Precipitación</b></a></th>
     </tr>
     <tr>
         <th>Tiempo</th>
@@ -265,7 +265,7 @@ Contains installation instructions, agenda, and training materials for the Inter
 
 <table style="text-align:left">
     <tr>
-        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_3B"><b>Sesión 3B: Calidad del agua</b> </a></th>
+        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_3B"><b>Sesión 3B: Calidad del agua</b></a></th>
     </tr>
     <tr>
         <th>Tiempo</th>
@@ -334,7 +334,7 @@ Contains installation instructions, agenda, and training materials for the Inter
 
 <table style="text-align:left">
     <tr>
-        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_4"><b>Sesión 4: Introducción al modelado de la superficie terrestre< /b></a></th>
+        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_4"><b>Sesión 4: Introducción al modelado de la superficie terrestre</b></a></th>
     <tr>
         <th>Tiempo</th>
         <th>Título y temas&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
@@ -374,7 +374,7 @@ Contains installation instructions, agenda, and training materials for the Inter
 #### Día 5: Viernes, 18 de Noviembre
 <table style="text-align:left">
     <tr>
-        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_5A"><b>Sesión 5A: Introducción a los marcos de modelado</ b></a></th>
+        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_5A"><b>Sesión 5A: Introducción a los marcos de modelado</b></a></th>
     </tr>
     <tr>
         <th>Tiempo</th>

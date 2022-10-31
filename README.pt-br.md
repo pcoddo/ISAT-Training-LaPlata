@@ -213,7 +213,7 @@ Contém instruções de instalação, agenda e materiais de treinamento para o w
 #### Dia 3: Quarta-feira, 16 de Novembro
 <table style="text-align:left">
     <tr>
-        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_3A"><b>Sessão 3A: Altura da água / Extensão aérea< /b></a></th>
+        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_3A"><b>Sessão 3A: Altura da água / Extensão aérea</b></a></th>
     </tr>
     <tr>
         <th>Hora</th>
@@ -265,7 +265,7 @@ Contém instruções de instalação, agenda e materiais de treinamento para o w
 
 <table style="text-align:left">
     <tr>
-        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_3B"><b>Sessão 3B: Qualidade da Água</b> </a></th>
+        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_3B"><b>Sessão 3B: Qualidade da Água</b></a></th>
     </tr>
     <tr>
         <th>Hora</th>
@@ -334,7 +334,7 @@ Contém instruções de instalação, agenda e materiais de treinamento para o w
 
 <table style="text-align:left">
     <tr>
-        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_4"><b>Sessão 4: Introdução à modelagem de superfície terrestre< /b></a></th>
+        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_4"><b>Sessão 4: Introdução à modelagem de superfície terrestre</b></a></th>
     <tr>
         <th>Hora</th>
         <th>Título e tópicos&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
