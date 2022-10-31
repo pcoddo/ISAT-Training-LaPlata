@@ -22,7 +22,7 @@ Contains installation instructions, agenda, and training materials for the Inter
         <li><a href="#24-create-conda-environment">2.4. Create conda environment</a></li>
         <li><a href="#25-test-installation">2.5. Test installation</a></li>
       </ul>
-    <li><a href="#3-acknowledgements">4. Acknowledgements</a>
+    <li><a href="#3-acknowledgements">3. Acknowledgements</a>
     </li>
   </ul>
 </div>

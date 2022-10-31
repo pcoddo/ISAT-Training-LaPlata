@@ -22,7 +22,7 @@ Contém instruções de instalação, agenda e materiais de treinamento para o w
         <li><a href="#24-criar-ambiente-condat">2.4. Criar ambiente conda</a></li>
         <li><a href="#25-testar-a-instalaçãon">2.5. Testar a instalação</a></li>
       </ul>
-    <li><a href="#3-reconhecimentos">4. Reconhecimentos</a>
+    <li><a href="#3-reconhecimentos">3. Reconhecimentos</a>
     </li>
   </ul>
 </div>
