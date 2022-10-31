@@ -30,7 +30,6 @@ Contains installation instructions, agenda, and training materials for the Inter
 
 ---
 ## 1. Agenda de treinamento
-<!--- ![Agenda](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/agenda_10.26.22.jpg) --->
 <details open>
   <summary>Clique para ocultar a agenda</summary>
   
@@ -583,7 +582,7 @@ Sistema operativo:
 ### 2.2. Instalar Miniconda
 *Conda* es un sistema de administración de entornos y paquetes de código abierto que se ejecuta en Windows, macOS y Linux. Conda instala, ejecuta y actualiza rápidamente los paquetes y sus dependencias. También crea, guarda, carga y cambia fácilmente entre entornos en su computadora local. Fue creado para programas Python, pero puede empaquetar y distribuir software para cualquier lenguaje. Esta capacitación utilizará una instalación simplificada llamada *Miniconda*. 
 
-1. 1.	Vaya a la  [página de instalación](https://docs.conda.io/en/latest/miniconda.html) y descargue el instalador para su sistema operativ.
+1. Vaya a la  [página de instalación](https://docs.conda.io/en/latest/miniconda.html) y descargue el instalador para su sistema operativ.
 
 [Instaladores de Windows](https://docs.conda.io/en/latest/miniconda.html#windows-installers)
 ![windows-installer](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/windows-installer.png)
@@ -663,42 +662,6 @@ TBD
 
 ## 4. Agradecimientos
 Estos materiales se basan en capacitaciones previas desarrolladas por el Programa de Capacitación de Detección Remota Avanzada de la NASA [(ARSET)](https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset). Un agradecimiento especial a [Dr. Amita Mehta](https://sciences.gsfc.nasa.gov/sed/bio/amita.v.mehta), [Dra. Erika Podest](https://science.jpl.nasa.gov/people/podest/), [Dra. Ana Prados](https://jcet.umbc.edu/jcet-faculty/person/ed05369/) y al resto del equipo de ARSET por proporcionar esos materiales!
-
-
-<p align="center">
-  <a href="#ISAT-Training-LaPlata">(Back to top)</a>
-</p>
-
-## About
-Contiene instrucciones de instalación, agenda y materiales de capacitación para el taller del Grupo de Trabajo Interinstitucional sobre el Agua (ISAT) realizado en Buenos Aires, Argentina, en noviembre de 2022. Taller organizado en colaboración con la Organización de los Estados Americanos (OEA) y el Comité Intergubernamental Coordinador de los Países de la Cuenca del Plata (CIC).
-
-## Agenda
-![Agenda](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/agenda_10.26.22.jpg)
-
-## Instalación
-
-Clone repository to your device:
-```shell
-git clone https://github.com/pcoddo/ISAT-Training-LaPlata.git
-```
-Create conda environment using provided `environment.yml` file:
-```shell
-conda env create -f environment.yml
-conda activate plata
-```
-
-## Usage
-TBD
-
-## Dependencies
-**Python** version 3.7+
-
-**Packages:**
-TBD
-  
-## Agradecimientos
-Estos materiales se basan en capacitaciones previas desarrolladas por el Programa de Capacitación de Detección Remota Avanzada de la NASA [(ARSET)](https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset). Un agradecimiento especial a [Dr. Amita Mehta](https://sciences.gsfc.nasa.gov/sed/bio/amita.v.mehta), [Dra. Erika Podest](https://science.jpl.nasa.gov/people/podest/), [Dr. Ana Prados](https://jcet.umbc.edu/jcet-faculty/person/ed05369/) y al resto del equipo de ARSET por proporcionar esos materiales!
-
 
 
 <p align="center">
