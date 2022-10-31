@@ -13,430 +13,429 @@ Contém instruções de instalação, agenda e materiais de treinamento para o w
 ## O Índice Analítico
 <div id="user-content-toc">
   <ul>
-    <li><a href="#1-training-agenda">1. Training Agenda</a>
-    <li><a href="#2-installation-instructions">2. Installation Instructions</a>
+    <li><a href="#1-agenda-de-treinamento">1. Agenda de Treinamento</a>
+    <li><a href="#2-instruções-de-Instalação">2. Instruções de Instalação</a>
       <ul>
-        <li><a href="#21-requirements">2.1. Requirements</a></li>
-        <li><a href="#22-install-miniconda">2.2. Install Miniconda</a></li>
-        <li><a href="#23-download-training-materials">2.3. Download training materials</a></li>
-        <li><a href="#24-create-conda-environment">2.4. Create conda environment</a></li>
-        <li><a href="#25-test-installation">2.5. Test installation</a></li>
+        <li><a href="#21-requisitos">2.1. Requisitos</a></li>
+        <li><a href="#22-instalar-miniconda">2.2. Instalar Miniconda</a></li>
+        <li><a href="#23-baixe-os-materiais-de-treinamento">2.3. Baixe os materiais de treinamento</a></li>
+        <li><a href="#24-criar-ambiente-condat">2.4. Criar ambiente conda</a></li>
+        <li><a href="#25-testar-a-instalaçãon">2.5. Testar a instalação</a></li>
       </ul>
     <li><a href="#3-usage">3. Usage</a>
-    <li><a href="#4-acknowledgements">4. Acknowledgements</a>
+    <li><a href="#4-reconhecimentos">4. Reconhecimentos</a>
     </li>
   </ul>
 </div>
 
 ---
-## 1. Training Agenda
-<!--- ![Agenda](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/agenda_10.26.22.jpg) --->
+## 1. Agenda de Treinamento
 <details open>
-  <summary>Click to collapse agenda</summary>
+  <summary>Clique para ocultar a agenda</summary>
   
-#### Day 1: Monday, November 14
+#### Dia 1: Segunda-feira, 14 de Novembro
 <table style="text-align:left">
     <tr>
-        <td colspan="4">Introductions</th>
+        <td colspan="4">Apresentações</th>
     </tr>
     <tr>
-        <th>Time</th>
-        <th>Title and Topics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
-        <th>Type&emsp;&emsp;&emsp;&emsp;</td>
-        <th>Presenter&emsp;&emsp;</th>
+        <th>Hora</th>
+        <th>Título e tópicos&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
+        <th>Tipo&emsp;&emsp;&emsp;&emsp;</td>
+        <th>Apresentador&emsp;&emsp;</th>
     </tr>
     <tr>
         <td>09:00-10:30</td>
-        <td>Opening Session</td>
-        <td>Discussion</td>
+        <td>Sessão de abertura</td>
+        <td>Discussão</td>
         <td>CIC</td>
     </tr>
     <tr>
         <td>10:30-11:30</td>
-        <td colspan="3">Break</td>
+        <td colspan="3">Pausa</td>
     </tr>
     <tr>
         <td>11:00-12:00</td>
-        <td>Introduction to the ISAT Partnership</td>
-        <td>Discussion</td>
+        <td>Introdução à parceria ISAT</td>
+        <td>Discussão</td>
         <td>ISAT</td>
     </tr>
     <tr>
         <td>12:00-13:00</td>
-        <td colspan="3">Lunch</td>
+        <td colspan="3">Almoço</td>
     </tr>
 </table>
 
 <table style="text-align:left">
     <tr>
-        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_1"><b>Session 1: Introduction to Hydrological Remote Sensing</b></a></th>
+        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_1"><b>Sessão 1: Introdução ao Sensoriamento Remoto Hidrológico</b></a></th>
     </tr>
     <tr>
-        <th>Time</th>
-        <th>Title and Topics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
-        <th>Type&emsp;&emsp;&emsp;&emsp;</td>
-        <th>Presenter&emsp;&emsp;</th>
+        <th>Hora</th>
+        <th>Título e tópicos&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
+        <th>Tipo&emsp;&emsp;&emsp;&emsp;</td>
+        <th>Apresentador&emsp;&emsp;</th>
     </tr>
     <tr>
         <td>13:00-14:00</td>
-        <td>Introduction to Remote Sensing Principles</td>
-        <td>Presentation</td>
+        <td>Introdução aos Princípios de Sensoriamento Remoto</td>
+        <td>Apresentação</td>
         <td>NASA</td>
     </tr>
     <tr>
         <td>14:00-15:00</td>
-        <td>Overview of Land Cover Remote Sensing</td>
-        <td>Presentation</td>
+        <td>Visão geral do sensoriamento remoto de cobertura do solo</td>
+        <td>Apresentação</td>
         <td>NASA</td>
     </tr>
     <tr>
         <td>15:00-15:30</td>
-        <td colspan="3">Break</td>
+        <td colspan="3">Pausa</td>
     </tr>
     <tr>
         <td>15:30-16:30</td>
-        <td>Accessing and Examining Land Cover</td>
-        <td>Exercise</td>
+        <td>Acessando e Examinando a Cobertura da Terra</td>
+        <td>Exercício</td>
         <td>NASA</td>
     </tr>
     <tr>
         <td>16:30-17:00</td>
-        <td>End-of-day Discussion</td>
-        <td>Discussion</td>
+        <td>Discussão de fim de dia</td>
+        <td>Discussão</td>
         <td>ISAT</td>
     </tr>
     <tr>
         <td>17:00-18:00</td>
-        <td>Opening Day Welcome Reception</td>
-        <td>Event</td>
+        <td>Recepção de boas-vindas no dia de abertura</td>
+        <td>Evento</td>
         <td>CIC</td>
     </tr>
 </table>
 
-#### Day 2: Tuesday, November 15</td>
+#### Dia 2: Terça-feira, 15 de Novembro</td>
 
 <table style="text-align:left">
     <tr>
-        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_2A"><b>Session 2A: Precipitation</b></a></th>
+        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_2A"><b>Sessão 2A: precipitação</b></a></th>
     </tr>
     <tr>
-        <th>Time</th>
-        <th>Title and Topics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
-        <th>Type&emsp;&emsp;&emsp;&emsp;</td>
-        <th>Presenter&emsp;&emsp;</th>
+        <th>Hora</th>
+        <th>Título e tópicos&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
+        <th>Tipo&emsp;&emsp;&emsp;&emsp;</td>
+        <th>Apresentador&emsp;&emsp;</th>
     </tr>
     <tr>
         <td>09:00-09:15</td>
-        <td>Welcome/Agenda</td>
-        <td>Discussion</td>
+        <td>Bem-vindo/Agenda</td>
+        <td>Discussão</td>
         <td>ISAT</td>
     </tr>
     <tr>
         <td>09:15-10:00</td>
-        <td>GPM Mission Overview</td>
-        <td>Presentation</td>
+        <td>Visão geral da missão do GPM</td>
+        <td>Apresentação</td>
         <td>UVA</td>
     </tr>
     <tr>
         <td>10:00-11:00</td>
-        <td>Precipitation Analysis and Discussion</td>
-        <td>Excercise</td>
+        <td>Análise e discussão de precipitação</td>
+        <td>Exercício</td>
         <td>UVA</td>
     </tr>
     <tr>
         <td>11:00-11:30</td>
-        <td colspan="3">Break</td>
+        <td colspan="3">Pausa</td>
     </tr>
     <tr>
         <td>11:30-12:00</td>
-        <td>Introduction to MODIS</td>
-        <td>Presentation</td>
+        <td>Introdução ao MODIS</td>
+        <td>Apresentação</td>
         <td>NASA</td>
     </tr>
     <tr>
         <td>12:00-13:00</td>
-        <td>Access &amp; Analysis of MODIS NDVI</td>
-        <td>Excercise</td>
+        <td>Acessar &amp; Análise do MODIS NDVI</td>
+        <td>Exercício</td>
         <td>NASA</td>
     </tr>
     <tr>
         <td>13:00-14:00</td>
-        <td colspan="3">Lunch</td>
+        <td colspan="3">Almoço</td>
     </tr>
 </table>
 
 <table style="text-align:left">
     <tr>
-        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_2B"><b>Session 2B: Soil Moisture &amp; Evapotranspiration</b></a></th>
+        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_2B"><b>Sessão 2B: Umidade do Solo &amp; Evapotranspiração</b></a></th>
     </tr>
     <tr>
-        <th>Time</th>
-        <th>Title and Topics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
-        <th>Type&emsp;&emsp;&emsp;&emsp;</td>
-        <th>Presenter&emsp;&emsp;</th>
+        <th>Hora</th>
+        <th>Título e tópicos&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
+        <th>Tipo&emsp;&emsp;&emsp;&emsp;</td>
+        <th>Apresentador&emsp;&emsp;</th>
     </tr>
     <tr>
         <td>14:00-14:30</td>
-        <td>Introduction to SMAP</td>
-        <td>Presentation</td>
+        <td>Introdução ao SMAP</td>
+        <td>Apresentação</td>
         <td>NASA</td>
     </tr>
     <tr>
         <td>14:30-15:30</td>
-        <td>SMAP Data Access &amp; Analysis</td>
-        <td>Exercise</td>
+        <td>Acesso a dados SMAP &amp; Análise</td>
+        <td>Exercício</td>
         <td>NASA</td>
     </tr>
     <tr>
         <td>15:30-16:00</td>
-        <td colspan="3">Break</td>
+        <td colspan="3">Pausa</td>
     </tr>
     <tr>
         <td>16:00-16:30</td>
-        <td>Introduction to Evapotranspiration Access</td>
-        <td>Presentation</td>
-        <td>USACE</td>
+        <td>Introdução ao acesso à evapotranspiração</td>
+        <td>Apresentação</td>
+        <td>USAR</td>
     </tr>
     <tr>
         <td>16:30-17:00</td>
-        <td>Access Landsat-Based ET</td>
-        <td>Exercise</td>
-        <td>USACE</td>
+        <td>Acessar ET baseado em Landsat</td>
+        <td>Exercício</td>
+        <td>USAR</td>
     </tr>
     <tr>
         <td>17:00-17:30</td>
-        <td>Questions/End-of-day Discussion</td>
-        <td>Discussion</td>
+        <td>Perguntas/Discussão de fim de dia</td>
+        <td>Discussão</td>
         <td>ISAT</td>
     </tr>
 </table>
 
-#### Day 3: Wednesday, November 16
+#### Dia 3: Quarta-feira, 16 de Novembro
 <table style="text-align:left">
     <tr>
-        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_3A"><b>Session 3A: Water Height / Aerial Extent</b></a></th>
+        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_3A"><b>Sessão 3A: Altura da água / Extensão aérea< /b></a></th>
     </tr>
     <tr>
-        <th>Time</th>
-        <th>Title and Topics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
-        <th>Type&emsp;&emsp;&emsp;&emsp;</td>
-        <th>Presenter&emsp;&emsp;</th>
+        <th>Hora</th>
+        <th>Título e tópicos&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
+        <th>Tipo&emsp;&emsp;&emsp;&emsp;</td>
+        <th>Apresentador&emsp;&emsp;</th>
     </tr>
     <tr>
         <td>09:00-09:15</td>
-        <td>Welcome/Agenda</td>
-        <td>Discussion</td>
+        <td>Bem-vindo/Agenda</td>
+        <td>Discussão</td>
         <td>ISAT</td>
     </tr>
     <tr>
         <td>09:15-10:00</td>
-        <td>Introduction to MOGWAI</td>
-        <td>Presentation</td>
-        <td>USACE</td>
+        <td>Introdução ao MOGWAI</td>
+        <td>Apresentação</td>
+        <td>USAR</td>
     </tr>
     <tr>
         <td>10:00-11:00</td>
-        <td>MOGWAI Example</td>
-        <td>Exercise</td>
-        <td>USACE</td>
+        <td>Exemplo MOGWAI</td>
+        <td>Exercício</td>
+        <td>USAR</td>
     </tr>
     <tr>
         <td>11:00-11:30</td>
-        <td>Break</td>
+        <td>Pausa</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td>11:30-12:00</td>
-        <td>Introduction to AWS</td>
-        <td>Presentation</td>
+        <td>Introdução à AWS</td>
+        <td>Apresentação</td>
         <td>AWS</td>
     </tr>
     <tr>
         <td>12:00-12:30</td>
-        <td>Q&amp;A</td>
-        <td>Discussion</td>
+        <td>Perguntas e respostas</td>
+        <td>Discussão</td>
         <td>ISAT</td>
     </tr>
     <tr>
         <td>12:30-13:30</td>
-        <td colspan="3">Lunch</td>
+        <td colspan="3">Almoço</td>
     </tr>
 </table>
 
 <table style="text-align:left">
     <tr>
-        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_3B"><b>Session 3B: Water Quality</b></a></th>
+        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_3B"><b>Sessão 3B: Qualidade da Água</b> </a></th>
     </tr>
     <tr>
-        <th>Time</th>
-        <th>Title and Topics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
-        <th>Type&emsp;&emsp;&emsp;&emsp;</td>
-        <th>Presenter&emsp;&emsp;</th>
+        <th>Hora</th>
+        <th>Título e tópicos&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
+        <th>Tipo&emsp;&emsp;&emsp;&emsp;</td>
+        <th>Apresentador&emsp;&emsp;</th>
     </tr>
     <tr>
         <td>13:30-14:00</td>
-        <td>Introduction to Water Quality Remote Sensing</td>
-        <td>Presentation</td>
+        <td>Introdução ao Sensoriamento Remoto da Qualidade da Água</td>
+        <td>Apresentação</td>
         <td>NASA</td>
     </tr>
     <tr>
         <td>14:00-15:00</td>
-        <td>Water Quality Remote Sensing Applications</td>
-        <td>Exercise</td>
+        <td>Aplicativos de sensoriamento remoto de qualidade da água</td>
+        <td>Exercício</td>
         <td>NASA</td>
     </tr>
     <tr>
         <td>15:00-15:30</td>
-        <td colspan="3">Break</td>
+        <td colspan="3">Pausa</td>
     </tr>
     <tr>
         <td>15:30-16:00</td>
-        <td>Freshwater Health Index</td>
-        <td>Presentation</td>
-        <td>CI</td>
+        <td>Índice de Saúde da Água Doce</td>
+        <td>Apresentação</td>
+        <td>IC</td>
     </tr>
     <tr>
         <td>16:00-16:30</td>
-        <td>Q&amp;A</td>
-        <td>Discussion</td>
+        <td>Perguntas e respostas</td>
+        <td>Discussão</td>
         <td>ISAT</td>
     </tr>
     <tr>
         <td>16:30-17:00</td>
-        <td>Questions/End-of-day Discussion</td>
-        <td>Discussion</td>
+        <td>Perguntas/Discussão de fim de dia</td>
+        <td>Discussão</td>
         <td>ISAT</td>
     </tr>
 </table>
 
-#### Day 4: Thursday, November 17
+#### Dia 4: Quinta-feira, 17 de Novembro
 <table style="text-align:left">
     <tr>
-        <td colspan="4">Field Visit</th>
+        <td colspan="4">Visita de campo</th>
     </tr>
     <tr>
-        <th>Time</th>
-        <th>Title and Topics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
-        <th>Type&emsp;&emsp;&emsp;&emsp;</td>
-        <th>Presenter&emsp;&emsp;</th>
+        <th>Hora</th>
+        <th>Título e tópicos&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
+        <th>Tipo&emsp;&emsp;&emsp;&emsp;</td>
+        <th>Apresentador&emsp;&emsp;</th>
     </tr>
     <tr>
         <td>09:00-13:00</td>
-        <td>INA's Laboratory and Field Visit</td>
-        <td>Field Visit</td>
+        <td>Laboratório e visita de campo da INA</td>
+        <td>Visita de campo</td>
         <td>CIC</td>
     </tr>
     <tr>
         <td>13:00-14:00</td>
-        <td colspan="3">Lunch</td>
+        <td colspan="3">Almoço</td>
     </tr>
 </table>
 
 <table style="text-align:left">
     <tr>
-        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_4"><b>Session 4: Introduction to Land Surface Modeling</b></a></th>
+        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_4"><b>Sessão 4: Introdução à modelagem de superfície terrestre< /b></a></th>
     <tr>
-        <th>Time</th>
-        <th>Title and Topics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
-        <th>Type&emsp;&emsp;&emsp;&emsp;</td>
-        <th>Presenter&emsp;&emsp;</th>
+        <th>Hora</th>
+        <th>Título e tópicos&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
+        <th>Tipo&emsp;&emsp;&emsp;&emsp;</td>
+        <th>Apresentador&emsp;&emsp;</th>
     </tr>
     <tr>
         <td>14:00-14:45</td>
-        <td>Overview of Global Land Data Assimilation (GLDAS)</td>
-        <td>Presentation</td>
-        <td>USACE</td>
+        <td>Visão geral da assimilação global de dados terrestres (GLDAS)</td>
+        <td>Apresentação</td>
+        <td>USAR</td>
     </tr>
     <tr>
         <td>14:45-15:30</td>
-        <td>Summary of Surface Water Budget Components</td>
-        <td>Presentation</td>
+        <td>Resumo dos componentes do orçamento de águas superficiais</td>
+        <td>Apresentação</td>
         <td>UVA</td>
     </tr>
     <tr>
         <td>15:30-4:00</td>
-        <td colspan="3">Break</td>
+        <td colspan="3">Pausa</td>
     </tr>
     <tr>
         <td>4:00-5:00</td>
-        <td>Access &amp; Analysis of GLDAS Runoff </td>
-        <td>Exercise</td>
-        <td>USACE</td>
+        <td>Acessar &amp; Análise do escoamento GLDAS </td>
+        <td>Exercício</td>
+        <td>USAR</td>
     </tr>
     <tr>
         <td>5:00-5:30</td>
-        <td>Questions/End-of-day Discussion</td>
-        <td>Discussion</td>
+        <td>Perguntas/Discussão de fim de dia</td>
+        <td>Discussão</td>
         <td>ISAT</td>
     </tr>
 </table>
 
-#### Day 5: Friday, November 18
+#### Dia 5: Sexta-feira, 18 de Novembro
 <table style="text-align:left">
     <tr>
-        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_5A"><b>Session 5A: Introduction to Modeling Frameworks</b></a></th>
+        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_5A"><b>Sessão 5A: Introdução às estruturas de modelagem</b></a></th>
     </tr>
     <tr>
-        <th>Time</th>
-        <th>Title and Topics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
-        <th>Type&emsp;&emsp;&emsp;&emsp;</td>
-        <th>Presenter&emsp;&emsp;</th>
+        <th>Hora</th>
+        <th>Título e tópicos&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
+        <th>Tipo&emsp;&emsp;&emsp;&emsp;</td>
+        <th>Apresentador&emsp;&emsp;</th>
     </tr>
     <tr>
         <td>09:00-09:15</td>
-        <td>Welcome/Agenda</td>
-        <td>Discussion</td>
+        <td>Bem-vindo/Agenda</td>
+        <td>Discussão</td>
         <td>ISAT</td>
     </tr>
     <tr>
         <td>09:15-10:30</td>
-        <td>Introduction to SWAT-Online &amp; NASAaccess</td>
-        <td>Presentation</td>
+        <td>Introdução ao SWAT-Online &amp; Acesso NASA</td>
+        <td>Apresentação</td>
         <td>NASA</td>
     </tr>
     <tr>
         <td>10:30-11:00</td>
-        <td colspan="3">Break</td>
+        <td colspan="3">Pausa</td>
     </tr>
     <tr>
         <td>11:00-12:00</td>
-        <td>Introduction to Hydrologic Modeling System (HEC-HMS)</td>
-        <td>Presentation</td>
-        <td>USACE</td>
+        <td>Introdução ao Sistema de Modelagem Hidrológica (HEC-HMS)</td>
+        <td>Apresentação</td>
+        <td>USAR</td>
     </tr>
     <tr>
         <td>12:00-13:00</td>
-        <td>Introduciton to NASA's Land Information System (LIS)</td>
-        <td>Presentation</td>
+        <td>Introdução ao Land Information System (LIS) da NASA</td>
+        <td>Apresentação</td>
         <td>NASA</td>
     </tr>
     <tr>
         <td>13:00-14:00</td>
-        <td colspan="3">Lunch</td>
+        <td colspan="3">Almoço</td>
     </tr>
 </table>
 
 <table style="text-align:left">
     <tr>
-        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_5B"><b>Session 5B: Training Debrief &amp; Future Directions</b></a></th>
+        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_5B"><b>Sessão 5B: Debrief &amp; Direções futuras</b></a></th>
     </tr>
     <tr>
-        <th>Time</th>
-        <th>Title and Topics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
-        <th>Type&emsp;&emsp;&emsp;&emsp;</td>
-        <th>Presenter&emsp;&emsp;</th>
+        <th>Hora</th>
+        <th>Título e tópicos&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
+        <th>Tipo&emsp;&emsp;&emsp;&emsp;</td>
+        <th>Apresentador&emsp;&emsp;</th>
     </tr>
     <tr>
         <td>14:00-16:00</td>
-        <td>Training Debrief</td>
-        <td>Discussion</td>
+        <td>Debrief de treinamento (reflexões sobre a semana, instruções para treinamentos futuros)</td>
+        <td>Discussão</td>
         <td>ISAT/CIC</td>
     </tr>
     <tr>
         <td>16:00</td>
-        <td>Close Out</td>
-        <td>Discussion</td>
+        <td>Fechar</td>
+        <td>Discussão</td>
         <td>ISAT/CIC</td>
     </tr>
 </table>

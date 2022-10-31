@@ -13,7 +13,7 @@ Contains installation instructions, agenda, and training materials for the Inter
 ## Tabla de contenido
 <div id="user-content-toc">
   <ul>
-    <li><a href="#1-agenda-de-treinamento">1. Agenda de treinamento</a>
+    <li><a href="#1-agenda-de-capacitación">1. Agenda de Capacitación</a>
     <li><a href="#2-instrucciones-de-instalación">2. Instrucciones de instalación</a>
       <ul>
         <li><a href="#21-requisitos">2.1. Requisitos</a></li>
@@ -29,9 +29,9 @@ Contains installation instructions, agenda, and training materials for the Inter
 </div>
 
 ---
-## 1. Agenda de treinamento
+## 1. Agenda de Capacitación
 <details open>
-  <summary>Clique para ocultar a agenda</summary>
+  <summary>Click para ocultar agenda</summary>
   
 #### Día 1: Lunes, 14 de Noviembre
 <table style="text-align:left">
