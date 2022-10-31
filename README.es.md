@@ -22,8 +22,7 @@ Contains installation instructions, agenda, and training materials for the Inter
         <li><a href="#24-crear-ambiente-conda">2.4. Crear ambiente conda</a></li>
         <li><a href="#25-prueba-de-Instalación">2.5. Prueba de Instalación</a></li>
       </ul>
-    <li><a href="#3-usage">3. Usage</a>
-    <li><a href="#4-agradecimientos">4. Agradecimientos</a>
+    <li><a href="#3-agradecimientos">4. Agradecimientos</a>
     </li>
   </ul>
 </div>
@@ -526,10 +525,7 @@ El terminal ahora debería mostrar el entorno activado:
 ### 2.5. Prueba de Instalación
 
 
-## 3. Usage
-TBD
-
-## 4. Agradecimientos
+## 3. Agradecimientos
 Estos materiales se basan en capacitaciones previas desarrolladas por el Programa de Capacitación de Detección Remota Avanzada de la NASA [(ARSET)](https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset). Un agradecimiento especial a [Dr. Amita Mehta](https://sciences.gsfc.nasa.gov/sed/bio/amita.v.mehta), [Dra. Erika Podest](https://science.jpl.nasa.gov/people/podest/), [Dra. Ana Prados](https://jcet.umbc.edu/jcet-faculty/person/ed05369/) y al resto del equipo de ARSET por proporcionar esos materiales!
 
 

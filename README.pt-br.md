@@ -22,8 +22,7 @@ Contém instruções de instalação, agenda e materiais de treinamento para o w
         <li><a href="#24-criar-ambiente-condat">2.4. Criar ambiente conda</a></li>
         <li><a href="#25-testar-a-instalaçãon">2.5. Testar a instalação</a></li>
       </ul>
-    <li><a href="#3-usage">3. Usage</a>
-    <li><a href="#4-reconhecimentos">4. Reconhecimentos</a>
+    <li><a href="#3-reconhecimentos">4. Reconhecimentos</a>
     </li>
   </ul>
 </div>
@@ -525,10 +524,7 @@ O terminal agora deve exibir o ambiente ativado:
 ### 2.5. Testar a instalação
 
 
-## 3. Usage
-TBD
-
-## 4. Reconhecimentos
+## 3. Reconhecimentos
 Esses materiais baseiam-se em treinamentos anteriores desenvolvidos pelo Programa NASA Advanced Remote Sensing Training [(ARSET)](https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset). Agradecimentos especiais ao [Dr. Amita Mehta](https://sciences.gsfc.nasa.gov/sed/bio/amita.v.mehta), [Dr. Erika Podest](https://science.jpl.nasa.gov/people/podest/), [Dr. Ana Prados](https://jcet.umbc.edu/jcet-faculty/person/ed05369/) e o restante da equipe ARSET por fornecer esses materiais!
 
 

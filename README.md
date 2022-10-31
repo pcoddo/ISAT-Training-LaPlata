@@ -22,8 +22,7 @@ Contains installation instructions, agenda, and training materials for the Inter
         <li><a href="#24-create-conda-environment">2.4. Create conda environment</a></li>
         <li><a href="#25-test-installation">2.5. Test installation</a></li>
       </ul>
-    <li><a href="#3-usage">3. Usage</a>
-    <li><a href="#4-acknowledgements">4. Acknowledgements</a>
+    <li><a href="#3-acknowledgements">4. Acknowledgements</a>
     </li>
   </ul>
 </div>
@@ -526,10 +525,7 @@ The terminal should now display the activated environment:
 ### 2.5. Test installation
 
 
-## 3. Usage
-TBD
-
-## 4. Acknowledgements
+## 3. Acknowledgements
 These materials draw on previous trainings developed by the NASA Advanced Remote Sensing Training [(ARSET)](https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset) Program. Special thanks to [Dr. Amita Mehta](https://sciences.gsfc.nasa.gov/sed/bio/amita.v.mehta), [Dr. Erika Podest](https://science.jpl.nasa.gov/people/podest/), [Dr. Ana Prados](https://jcet.umbc.edu/jcet-faculty/person/ed05369/) and the rest of the ARSET team for providing those materials!
 
 
