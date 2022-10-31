@@ -468,7 +468,7 @@ Operating system:
   <img src="https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/win-install-type.PNG" width="400">
 </p>
 
-5. Select a destination folder to install Anaconda and click Next.
+5. Select a destination folder to install Anaconda and click *Next*.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/win-install-location.PNG" width="400">
@@ -486,7 +486,7 @@ Operating system:
 1. Open terminal window ("Anaconda Prompt" on Windows, "Terminal" on Mac)
 ![terminal](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/terminal.png)
 
-2. Install git through terminal. This allows your computer to download the training materials hosted on Github:
+2. Install *git* through terminal. This allows your computer to download the training materials hosted on Github:
 ```shell
 conda config --add channels conda-forge
 conda install -c conda-forge git
@@ -518,7 +518,10 @@ Activate new environment:
 conda activate plata
 ```
 
-The terminal should now the activated environment:
+The terminal should now display the activated environment:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/plata-activated.PNG" width="400">
+</p>
 
 ### 2.5. Test installation
 
