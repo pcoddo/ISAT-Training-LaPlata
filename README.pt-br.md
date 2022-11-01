@@ -467,15 +467,15 @@ Sistema operacional:
   <img src="https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/win-install-type.PNG" width="400">
 </p>
 
+Para usuários do Mac OS, escolha a opção "Instalação padrão":
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/mac-standard.png" width="400">
+</p>
+
 5. Selecione uma pasta de destino para instalar o Anaconda e clique em *Avançar*.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/win-install-location.PNG" width="400">
-</p>
-
-Para usuários do Mac OS, escolha a opção "Instalação padrão":
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/mac-standard.png" width="400">
 </p>
 
 6. Escolha se deseja adicionar o Anaconda à sua variável de ambiente PATH ou registrar o Anaconda como seu Python padrão. Nós **não recomendamos** adicionar o Anaconda à sua variável de ambiente PATH, pois isso pode interferir em outros softwares.
