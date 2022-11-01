@@ -445,6 +445,7 @@ Contém instruções de instalação, agenda e materiais de treinamento para o w
 Sistema operacional: 
 * Windows 8 ou mais recente, 64-bits 
 * macOS 10.13+
+    * Se você não tiver certeza de qual chip você possui (Intel vs. M1), verifique [aqui](https://support.apple.com/en-us/HT211814).
 * Mínimo de 5 GB de espaço em disco para baixar e instalar
 
 ### 2.2. Instalar Miniconda
@@ -455,7 +456,7 @@ Sistema operacional:
 [Instaladores do Windows](https://docs.conda.io/en/latest/miniconda.html#windows-installers)
 ![windows-installer](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/windows-installer.png)
 
-[Instaladores do Mac OS](https://docs.conda.io/en/latest/miniconda.html#macos-installers)
+[Instaladores do Mac OS](https://docs.conda.io/en/latest/miniconda.html#macos-installers). Para usuários do Mac OS, escolha a opção do instalador **pkg**.
 ![mac-installer](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/mac-installer.png)
 
 2. Vá para a pasta *Downloads* e clique duas vezes no instalador para iniciar.
@@ -470,6 +471,11 @@ Sistema operacional:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/win-install-location.PNG" width="400">
+</p>
+
+Para usuários do Mac OS, escolha a opção "Instalação padrão":
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/mac-standard.png" width="400">
 </p>
 
 6. Escolha se deseja adicionar o Anaconda à sua variável de ambiente PATH ou registrar o Anaconda como seu Python padrão. Nós **não recomendamos** adicionar o Anaconda à sua variável de ambiente PATH, pois isso pode interferir em outros softwares.
@@ -517,9 +523,7 @@ conda activate plata
 ```
 
 O terminal agora deve exibir o ambiente ativado:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/plata-activated.PNG" width="400">
-</p>
+![plata-activated](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/plata-activated.PNG)
 
 ### 2.5. Testar a instalação
 

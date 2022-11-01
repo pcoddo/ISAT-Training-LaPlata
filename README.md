@@ -446,6 +446,7 @@ Contains installation instructions, agenda, and training materials for the Inter
 Operating system: 
 * Windows 8 or newer, 64-bit 
 * macOS 10.13+
+    * If you are unsure which chip you have (Intel vs. M1), check [here](https://support.apple.com/en-us/HT211814). 
 * Minimum 5 GB disk space to download and install
 
 ### 2.2. Install Miniconda
@@ -456,7 +457,7 @@ Operating system:
 [Windows Installers](https://docs.conda.io/en/latest/miniconda.html#windows-installers)
 ![windows-installer](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/windows-installer.png)
 
-[Mac OS Installers](https://docs.conda.io/en/latest/miniconda.html#macos-installers)
+[Mac OS Installers](https://docs.conda.io/en/latest/miniconda.html#macos-installers). For Mac OS users, choose the **pkg** installer option.
 ![mac-installer](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/mac-installer.png)
 
 2. Go to your *Downloads* folder and double-click the installer to launch.
@@ -471,6 +472,11 @@ Operating system:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/win-install-location.PNG" width="400">
+</p>
+
+For Mac OS users, choose the "Standard Install" option:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/mac-standard.png" width="400">
 </p>
 
 6. Choose whether to add Anaconda to your PATH environment variable or register Anaconda as your default Python. We **don’t recommend** adding Anaconda to your PATH environment variable, since this can interfere with other software.
@@ -518,9 +524,7 @@ conda activate plata
 ```
 
 The terminal should now display the activated environment:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/plata-activated.PNG" width="400">
-</p>
+![plata-activated](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/plata-activated.PNG)
 
 ### 2.5. Test installation
 
