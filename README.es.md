@@ -445,7 +445,7 @@ Contains installation instructions, agenda, and training materials for the Inter
 Sistema operativo: 
 * Windows 8 o posterior, 64-bits 
 * macOS 10.13+
-    * Si no está seguro de qué chip tiene (Intel vs. M1), verifique [aquí] (https://support.apple.com/en-us/HT211814).
+    * Si no está seguro de qué chip tiene (Intel vs. M1), verifique [aquí](https://support.apple.com/en-us/HT211814).
 * Espacio en disco mínimo de 5 GB para descargar e instalar
 
 ### 2.2. Instalar Miniconda
