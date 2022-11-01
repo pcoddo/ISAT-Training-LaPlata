@@ -466,13 +466,13 @@ Operating system:
 
 ![install-type](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/install-type.PNG)
 
-5. Select a destination folder to install Anaconda and click *Next*.
+5. For Windows installations, select a destination folder to install Anaconda and click *Next*.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/win-install-location.PNG" width="400">
 </p>
 
-6. Choose whether to add Anaconda to your PATH environment variable or register Anaconda as your default Python. We **don’t recommend** adding Anaconda to your PATH environment variable, since this can interfere with other software.
+6. Choose whether to add Miniconda to your PATH environment variable or register Miniconda as your default Python. We **don’t recommend** adding Miniconda to your PATH environment variable, since this can interfere with other software.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/win-install-path.PNG" width="400">
