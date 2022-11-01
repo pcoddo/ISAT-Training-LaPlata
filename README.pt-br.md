@@ -461,16 +461,9 @@ Sistema operacional:
 
 2. Vá para a pasta *Downloads* e clique duas vezes no instalador para iniciar.
 3. Leia os termos de licenciamento e clique em **I Agree**.
-4. Selecione o Tipo de Instalação. É recomendável que você instale o **Just Me**, pois isso não requer direitos de administrador.
+4. Selecione o Tipo de Instalação. No Windows, é recomendável que você instale o **Just Me**, pois isso não requer direitos de administrador. Para usuários do Mac OS, escolha a opção "Standard Install":
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/win-install-type.PNG" width="400">
-</p>
-
-Para usuários do Mac OS, escolha a opção "Instalação padrão":
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/mac-standard.png" width="400">
-</p>
+![install-type](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/install-type.PNG)
 
 5. Selecione uma pasta de destino para instalar o Anaconda e clique em *Avançar*.
 
@@ -488,6 +481,7 @@ Para usuários do Mac OS, escolha a opção "Instalação padrão":
 
 ### 2.3. Baixe os materiais de treinamento
 1. Abra a janela do terminal ("Prompt do Anaconda" no Windows, "Terminal" no Mac)
+
 ![terminal](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/terminal.png)
 
 2. Instale o *git* pelo terminal. Isso permite que seu computador baixe os materiais de treinamento hospedados no Github:
@@ -523,6 +517,7 @@ conda activate plata
 ```
 
 O terminal agora deve exibir o ambiente ativado:
+
 ![plata-activated](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/plata-activated.PNG)
 
 ### 2.5. Testar a instalação
