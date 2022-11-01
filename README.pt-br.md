@@ -19,8 +19,8 @@ Contém instruções de instalação, agenda e materiais de treinamento para o w
         <li><a href="#21-requisitos">2.1. Requisitos</a></li>
         <li><a href="#22-instalar-miniconda">2.2. Instalar Miniconda</a></li>
         <li><a href="#23-baixe-os-materiais-de-treinamento">2.3. Baixe os materiais de treinamento</a></li>
-        <li><a href="#24-criar-ambiente-condat">2.4. Criar ambiente conda</a></li>
-        <li><a href="#25-testar-a-instalaçãon">2.5. Testar a instalação</a></li>
+        <li><a href="#24-criar-ambiente-conda">2.4. Criar ambiente conda</a></li>
+        <li><a href="#25-testar-a-instalação">2.5. Testar a instalação</a></li>
       </ul>
     <li><a href="#3-reconhecimentos">3. Reconhecimentos</a>
     </li>
