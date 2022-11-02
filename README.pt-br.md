@@ -524,7 +524,7 @@ O terminal agora deve exibir o ambiente ativado:
 
 
 ## 3. Reconhecimentos
-Esses materiais baseiam-se em treinamentos anteriores desenvolvidos pelo Programa NASA Advanced Remote Sensing Training [(ARSET)](https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset). Agradecimentos especiais ao [Dr. Amita Mehta](https://sciences.gsfc.nasa.gov/sed/bio/amita.v.mehta), [Dr. Erika Podest](https://science.jpl.nasa.gov/people/podest/), [Dr. Ana Prados](https://jcet.umbc.edu/jcet-faculty/person/ed05369/) e o restante da equipe ARSET por fornecer esses materiais!
+Esses materiais baseiam-se em treinamentos anteriores desenvolvidos pelo Programa NASA Advanced Remote Sensing Training [(ARSET)](https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset). Agradecimentos especiais ao [Dr. Amita Mehta](https://sciences.gsfc.nasa.gov/sed/bio/amita.v.mehta), [Dr. Erika Podest](https://science.jpl.nasa.gov/people/podest/), [Dr. Ana Prados](https://jcet.umbc.edu/jcet-faculty/person/ed05369/) e o restante da equipe ARSET por fornecer esses materiais! Obrigado também a Aarti Arora por ajudar a desenhar a agenda da reunião.
 
 
 <p align="center">
