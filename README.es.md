@@ -104,7 +104,7 @@ Contains installation instructions, agenda, and training materials for the Inter
         <td>ISAT</td>
     </tr>
     <tr>
-        <td>17:00-18:00</td>
+        <td>17:30-18:15</td>
         <td>Recepción de bienvenida del día de apertura</td>
         <td>Evento</td>
         <td>CIC</td>
@@ -320,7 +320,7 @@ Contains installation instructions, agenda, and training materials for the Inter
         <th>Presentador&emsp;&emsp;</th>
     </tr>
     <tr>
-        <td>09:00-13:00</td>
+        <td>08:00-12:00</td>
         <td>Visita al Laboratorio y Campo del INA</td>
         <td>Visita de campo</td>
         <td>CIC</td>
@@ -373,7 +373,7 @@ Contains installation instructions, agenda, and training materials for the Inter
 #### Día 5: Viernes, 18 de Noviembre
 <table style="text-align:left">
     <tr>
-        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_5A"><b>Sesión 5A: Introducción a los marcos de modelado</b></a></th>
+        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_5A"><b>Sesión 5A: Introducción a los marcos de modelado</ b></a></th>
     </tr>
     <tr>
         <th>Tiempo</th>
@@ -382,37 +382,31 @@ Contains installation instructions, agenda, and training materials for the Inter
         <th>Presentador&emsp;&emsp;</th>
     </tr>
     <tr>
-        <td>09:00-09:15</td>
-        <td>Bienvenida/Agenda</td>
-        <td>Discusión</td>
-        <td>ISAT</td>
-    </tr>
-    <tr>
-        <td>09:15-10:30</td>
-        <td>Introducción a SWAT-Online &amp; Acceso NASA</td>
-        <td>Presentación</td>
-        <td>NASA</td>
-    </tr>
-    <tr>
-        <td>10:30-11:00</td>
-        <td colspan="3">Pausa</td>
-    </tr>
-    <tr>
-        <td>11:00-12:00</td>
-        <td>Introducción al Sistema de Modelado Hidrológico (HEC-HMS)</td>
-        <td>Presentación</td>
-        <td>USO</td>
-    </tr>
-    <tr>
-        <td>12:00-13:00</td>
-        <td>Introducción al Sistema de Información Terrestre (LIS) de la NASA</td>
-        <td>Presentación</td>
-        <td>NASA</td>
-    </tr>
-    <tr>
-        <td>13:00-14:00</td>
-        <td colspan="3">Almuerzo</td>
-    </tr>
+         <td>09:00-10:30</td>
+         <td>Sistema de Apoyo a la Decisión de La Plata (SSTD)</td>
+         <td>Discusión</td>
+         <td>Deltares</td>
+     </tr>
+     <tr>
+         <td>10:30-11:00</td>
+         <td colspan="3">Pausa</td>
+     </tr>
+     <tr>
+         <td>11:00-12:00</td>
+         <td>Introducción a SWAT-Online &amp; Acceso NASA</td>
+         <td>Presentación</td>
+         <td>NASA</td>
+     </tr>
+     <tr>
+         <td>12:00-13:00</td>
+         <td>Introducción al Sistema de modelado hidrológico (HEC-HMS) y al Sistema de información terrestre (LIS)</td>
+         <td>Presentación</td>
+         <td>USACE/NASA</td>
+     </tr>
+     <tr>
+         <td>13:00-14:00</td>
+         <td colspan="3">Almuerzo</td>
+     </tr>
 </table>
 
 <table style="text-align:left">
@@ -426,17 +420,23 @@ Contains installation instructions, agenda, and training materials for the Inter
         <th>Presentador&emsp;&emsp;</th>
     </tr>
     <tr>
-        <td>14:00-16:00</td>
-        <td>Informe de capacitación (Reflexiones sobre la semana, Instrucciones para futuras capacitaciones)</td>
-        <td>Discusión</td>
-        <td>ISAT/CIC</td>
-    </tr>
-    <tr>
-        <td>16:00</td>
-        <td>Cerrar</td>
-        <td>Discusión</td>
-        <td>ISAT/CIC</td>
-    </tr>
+         <td>14:00-15:00</td>
+         <td>Estudio de caso de DSS: Lima, Perú</td>
+         <td>Presentación</td>
+         <td>RTI</td>
+     </tr>
+     <tr>
+         <td>15:00-16:00</td>
+         <td>Informe de capacitación (Reflexiones sobre la semana, Instrucciones para futuras capacitaciones)</td>
+         <td>Discusión</td>
+         <td>ISAT/CIC</td>
+     </tr>
+     <tr>
+         <td>16:00</td>
+         <td>Cerrar</td>
+         <td>Discusión</td>
+         <td>ISAT/CIC</td>
+     </tr>
 </table>
 </details>
 

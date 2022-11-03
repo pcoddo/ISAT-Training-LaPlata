@@ -105,7 +105,7 @@ Contains installation instructions, agenda, and training materials for the Inter
         <td>ISAT</td>
     </tr>
     <tr>
-        <td>17:00-18:00</td>
+        <td>17:30-18:15</td>
         <td>Opening Day Welcome Reception</td>
         <td>Event</td>
         <td>CIC</td>
@@ -321,7 +321,7 @@ Contains installation instructions, agenda, and training materials for the Inter
         <th>Presenter&emsp;&emsp;</th>
     </tr>
     <tr>
-        <td>09:00-13:00</td>
+        <td>08:00-12:00</td>
         <td>INA's Laboratory and Field Visit</td>
         <td>Field Visit</td>
         <td>CIC</td>
@@ -383,16 +383,10 @@ Contains installation instructions, agenda, and training materials for the Inter
         <th>Presenter&emsp;&emsp;</th>
     </tr>
     <tr>
-        <td>09:00-09:15</td>
-        <td>Welcome/Agenda</td>
+        <td>09:00-10:30</td>
+        <td>La Plata Decision Support System (SSTD)</td>
         <td>Discussion</td>
-        <td>ISAT</td>
-    </tr>
-    <tr>
-        <td>09:15-10:30</td>
-        <td>Introduction to SWAT-Online &amp; NASAaccess</td>
-        <td>Presentation</td>
-        <td>NASA</td>
+        <td>Deltares</td>
     </tr>
     <tr>
         <td>10:30-11:00</td>
@@ -400,15 +394,15 @@ Contains installation instructions, agenda, and training materials for the Inter
     </tr>
     <tr>
         <td>11:00-12:00</td>
-        <td>Introduction to Hydrologic Modeling System (HEC-HMS)</td>
+        <td>Introduction to SWAT-Online &amp; NASAaccess</td>
         <td>Presentation</td>
-        <td>USACE</td>
+        <td>NASA</td>
     </tr>
     <tr>
         <td>12:00-13:00</td>
-        <td>Introduciton to NASA's Land Information System (LIS)</td>
+        <td>Intro to Hydrologic Modeling System (HEC-HMS) & Land Information System (LIS)</td>
         <td>Presentation</td>
-        <td>NASA</td>
+        <td>USACE/NASA</td>
     </tr>
     <tr>
         <td>13:00-14:00</td>
@@ -427,8 +421,14 @@ Contains installation instructions, agenda, and training materials for the Inter
         <th>Presenter&emsp;&emsp;</th>
     </tr>
     <tr>
-        <td>14:00-16:00</td>
-        <td>Training Debrief</td>
+        <td>14:00-15:00</td>
+        <td>DSS Case Study: Lima, Peru</td>
+        <td>Presentation</td>
+        <td>RTI</td>
+    </tr>
+    <tr>
+        <td>15:00-16:00</td>
+        <td>Training Debrief (Reflections on the week, Directions for future trainings)</td>
         <td>Discussion</td>
         <td>ISAT/CIC</td>
     </tr>
