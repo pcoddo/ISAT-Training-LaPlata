@@ -1,0 +1,14 @@
+name: plata
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - qgis
+  - r-nasaaccess
+  - ipython
+  - notebook
+  - nb_conda_kernels
+  - r-irkernel
+  - r-codetools
+  - matplotlib
+prefix: C:\Users\poddo\Miniconda3\envs\plata
