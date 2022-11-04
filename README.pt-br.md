@@ -449,7 +449,7 @@ Sistema operacional:
 * Mínimo de 5 GB de espaço em disco para baixar e instalar
 
 ### 2.2. Instalar Miniconda
-*Conda* é um pacote de código aberto e sistema de gerenciamento de ambiente que é executado no Windows, macOS e Linux. O Conda instala, executa e atualiza rapidamente os pacotes e suas dependências. Ele também cria, salva, carrega e alterna facilmente entre ambientes em seu computador local. Ele foi criado para programas Python, mas pode empacotar e distribuir software para qualquer linguagem. Este treinamento usará uma instalação simplificada chamada *Miniconda*.
+*Anaconda* é um pacote de código aberto e sistema de gerenciamento de ambiente que é executado no Windows, macOS e Linux. O Conda instala, executa e atualiza rapidamente os pacotes e suas dependências. Ele também cria, salva, carrega e alterna facilmente entre ambientes em seu computador local. Ele foi criado para programas Python, mas pode empacotar e distribuir software para qualquer linguagem. Este treinamento usará uma instalação simplificada chamada *Miniconda*.
 
 1. Navegue até a [página de instalação](https://docs.conda.io/en/latest/miniconda.html) e baixe o instalador para seu sistema operacional.
 
@@ -465,7 +465,7 @@ Sistema operacional:
 
 ![install-type](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/install-type.PNG)
 
-5. Para instalações do Windows, selecione uma pasta de destino para instalar o Anaconda e clique em *Avançar*.
+5. Para instalações do Windows, selecione uma pasta de destino para instalar o Miniconda e clique em *Avançar*.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/win-install-location.PNG" width="400">
@@ -480,7 +480,7 @@ Sistema operacional:
 7. Clique em **Instalar**. Se você quiser ver os pacotes que o Miniconda está instalando, clique em Mostrar detalhes.
 
 ### 2.3. Baixe os materiais de treinamento
-1. Abra a janela do terminal ("Prompt do Anaconda" no Windows, "Terminal" no Mac)
+1. Abra a janela do terminal ("Anaconda Prompt" no Windows, "Terminal" no Mac)
 
 ![terminal](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/terminal.png)
 
@@ -528,9 +528,7 @@ qgis
 
 O aplicativo deve abrir em uma nova janela. Feito isso, tente abrir o arquivo de mapa `Cuenca-del-Plata_Map.qgz`:
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/test-map.PNG" width="400">
-</p>
+![test-map](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/test-map.PNG)
 
 ## 3. Reconhecimentos
 Esses materiais baseiam-se em treinamentos anteriores desenvolvidos pelo Programa NASA Advanced Remote Sensing Training [(ARSET)](https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset). Agradecimentos especiais ao [Dr. Amita Mehta](https://sciences.gsfc.nasa.gov/sed/bio/amita.v.mehta), [Dr. Erika Podest](https://science.jpl.nasa.gov/people/podest/), [Dr. Ana Prados](https://jcet.umbc.edu/jcet-faculty/person/ed05369/) e o restante da equipe ARSET por fornecer esses materiais! Obrigado também a Aarti Arora por ajudar a desenhar a agenda da reunião.

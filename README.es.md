@@ -449,7 +449,7 @@ Sistema operativo:
 * Espacio en disco mínimo de 5 GB para descargar e instalar
 
 ### 2.2. Instalar Miniconda
-*Conda* es un sistema de administración de entornos y paquetes de código abierto que se ejecuta en Windows, macOS y Linux. Conda instala, ejecuta y actualiza rápidamente los paquetes y sus dependencias. También crea, guarda, carga y cambia fácilmente entre entornos en su computadora local. Fue creado para programas Python, pero puede empaquetar y distribuir software para cualquier lenguaje. Esta capacitación utilizará una instalación simplificada llamada *Miniconda*. 
+*Anaconda* es un sistema de administración de entornos y paquetes de código abierto que se ejecuta en Windows, macOS y Linux. Conda instala, ejecuta y actualiza rápidamente los paquetes y sus dependencias. También crea, guarda, carga y cambia fácilmente entre entornos en su computadora local. Fue creado para programas Python, pero puede empaquetar y distribuir software para cualquier lenguaje. Esta capacitación utilizará una instalación simplificada llamada *Miniconda*. 
 
 1. Vaya a la  [página de instalación](https://docs.conda.io/en/latest/miniconda.html) y descargue el instalador para su sistema operativ.
 
@@ -465,7 +465,7 @@ Sistema operativo:
 
 ![install-type](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/install-type.PNG)
 
-5. Para instalaciones de Windows, seleccione una carpeta de destino para instalar Anaconda y haga clic en *Siguiente*.
+5. Para instalaciones de Windows, seleccione una carpeta de destino para instalar Miniconda y haga clic en *Siguiente*.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/win-install-location.PNG" width="400">
@@ -529,9 +529,7 @@ qgis
 
 La aplicación debería abrirse en una nueva ventana. Una vez que lo haga, intente abrir el archivo de mapa `Cuenca-del-Plata_Map.qgz`:
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/test-map.PNG" width="400">
-</p>
+![test-map](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/test-map.PNG)
 
 ## 3. Agradecimientos
 Estos materiales se basan en capacitaciones previas desarrolladas por el Programa de Capacitación de Detección Remota Avanzada de la NASA [(ARSET)](https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset). Un agradecimiento especial a [Dr. Amita Mehta](https://sciences.gsfc.nasa.gov/sed/bio/amita.v.mehta), [Dra. Erika Podest](https://science.jpl.nasa.gov/people/podest/), [Dra. Ana Prados](https://jcet.umbc.edu/jcet-faculty/person/ed05369/) y al resto del equipo de ARSET por proporcionar esos materiales! Gracias también a Aarti Arora por ayudar a diseñar la agenda de la reunión.

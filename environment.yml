@@ -4,6 +4,7 @@ channels:
   - defaults
 dependencies:
   - qgis
+  - git
   - r-nasaaccess
   - ipython
   - notebook

@@ -450,7 +450,7 @@ Operating system:
 * Minimum 5 GB disk space to download and install
 
 ### 2.2. Install Miniconda
-*Conda* is an open-source package and environment management system that runs on Windows, macOS, and Linux. Conda quickly installs, runs, and updates packages and their dependencies. It also easily creates, saves, loads, and switches between environments on your local computer. It was created for Python programs, but it can package and distribute software for any language. This training will use a simplified installation called *Miniconda*. 
+*Anaconda* is an open-source package and environment management system that runs on Windows, macOS, and Linux. Conda quickly installs, runs, and updates packages and their dependencies. It also easily creates, saves, loads, and switches between environments on your local computer. It was created for Python programs, but it can package and distribute software for any language. This training will use a simplified installation called *Miniconda*. 
 
 1. Navigate to the [installation page](https://docs.conda.io/en/latest/miniconda.html) and download the installer for your operating system.
 
@@ -466,7 +466,7 @@ Operating system:
 
 ![install-type](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/install-type.PNG)
 
-5. For Windows installations, select a destination folder to install Anaconda and click *Next*.
+5. For Windows installations, select a destination folder to install Miniconda and click *Next*.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/win-install-location.PNG" width="400">
@@ -529,9 +529,7 @@ qgis
 
 The application should open in a new window. Once it does, try opening the `Cuenca-del-Plata_Map.qgz` map file:
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/test-map.PNG" width="400">
-</p>
+![test-map](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/test-map.PNG)
 
 ## 3. Acknowledgements
 These materials draw on previous trainings developed by the NASA Advanced Remote Sensing Training [(ARSET)](https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset) Program. Special thanks to [Dr. Amita Mehta](https://sciences.gsfc.nasa.gov/sed/bio/amita.v.mehta), [Dr. Erika Podest](https://science.jpl.nasa.gov/people/podest/), [Dr. Ana Prados](https://jcet.umbc.edu/jcet-faculty/person/ed05369/) and the rest of the ARSET team for providing those materials! Thanks also to Aarti Arora for helping to design the meeting agenda.
