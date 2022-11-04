@@ -522,14 +522,12 @@ The terminal should now display the activated environment:
 ![plata-activated](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/plata-activated.png)
 
 ### 2.5. Test Installation
-Check to see if QGIS installed successfully:
+Check to see if QGIS installed successfully
 ```shell
 qgis
 ```
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/qgis-installed.PNG" width="400">
-</p>
+The application should open in a new window. Once it does, try opening the `Cuenca-del-Plata_Map.qgz` map file:
+![map](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/test-map.PNG)
 
 ## 3. Acknowledgements
 These materials draw on previous trainings developed by the NASA Advanced Remote Sensing Training [(ARSET)](https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset) Program. Special thanks to [Dr. Amita Mehta](https://sciences.gsfc.nasa.gov/sed/bio/amita.v.mehta), [Dr. Erika Podest](https://science.jpl.nasa.gov/people/podest/), [Dr. Ana Prados](https://jcet.umbc.edu/jcet-faculty/person/ed05369/) and the rest of the ARSET team for providing those materials! Thanks also to Aarti Arora for helping to design the meeting agenda.
