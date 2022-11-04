@@ -522,11 +522,13 @@ The terminal should now display the activated environment:
 ![plata-activated](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/plata-activated.png)
 
 ### 2.5. Test Installation
-Check to see if QGIS installed successfully
+Check to see if QGIS installed successfully:
 ```shell
 qgis
 ```
+
 The application should open in a new window. Once it does, try opening the `Cuenca-del-Plata_Map.qgz` map file:
+
 ![map](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/test-map.PNG)
 
 ## 3. Acknowledgements
