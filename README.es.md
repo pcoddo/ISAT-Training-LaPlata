@@ -528,7 +528,10 @@ qgis
 ```
 
 La aplicación debería abrirse en una nueva ventana. Una vez que lo haga, intente abrir el archivo de mapa `Cuenca-del-Plata_Map.qgz`:
-![map](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/test-map.PNG)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/test-map.PNG" width="400">
+</p>
 
 ## 3. Agradecimientos
 Estos materiales se basan en capacitaciones previas desarrolladas por el Programa de Capacitación de Detección Remota Avanzada de la NASA [(ARSET)](https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset). Un agradecimiento especial a [Dr. Amita Mehta](https://sciences.gsfc.nasa.gov/sed/bio/amita.v.mehta), [Dra. Erika Podest](https://science.jpl.nasa.gov/people/podest/), [Dra. Ana Prados](https://jcet.umbc.edu/jcet-faculty/person/ed05369/) y al resto del equipo de ARSET por proporcionar esos materiales! Gracias también a Aarti Arora por ayudar a diseñar la agenda de la reunión.
