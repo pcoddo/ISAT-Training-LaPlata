@@ -519,7 +519,7 @@ conda activate plata
 
 The terminal should now display the activated environment:
 
-![plata-activated](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/plata-activated.png)
+![plata-activated](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/plata-activated.PNG)
 
 ### 2.5. Test Installation
 Check to see if QGIS installed successfully:
