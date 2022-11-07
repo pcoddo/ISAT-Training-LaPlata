@@ -440,36 +440,6 @@ Contém instruções de instalação, agenda e materiais de treinamento para o w
          <td>ISAT/CIC</td>
      </tr>
 </table>
-
-<table style="text-align:left">
-    <tr>
-        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_5B"><b>Sessão 5B: Debrief &amp; Direções futuras</b></a></th>
-    </tr>
-    <tr>
-        <th>Hora</th>
-        <th>Título e tópicos&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
-        <th>Tipo&emsp;&emsp;&emsp;&emsp;</td>
-        <th>Apresentador&emsp;&emsp;</th>
-    </tr>
-    <tr>
-         <td>14:00-15:00</td>
-         <td>Estudo de caso DSS: Lima, Peru</td>
-         <td>Apresentação</td>
-         <td>RTI</td>
-     </tr>
-     <tr>
-         <td>15:00-16:00</td>
-         <td>Debrief de treinamento (reflexões sobre a semana, instruções para treinamentos futuros)</td>
-         <td>Discussão</td>
-         <td>ISAT/CIC</td>
-     </tr>
-     <tr>
-         <td>16:00</td>
-         <td>Fechar</td>
-         <td>Discussão</td>
-         <td>ISAT/CIC</td>
-     </tr>
-</table>
 </details>
 
 ## 2. Instruções de Instalação
