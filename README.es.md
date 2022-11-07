@@ -523,7 +523,7 @@ El terminal ahora debería mostrar el entorno activado:
 
 ![plata-activated](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/plata-activated.PNG)
 
-### 2.5. Prueba de Instalación
+### 2.5. Prueba de instalación
 Verifique si QGIS se instaló correctamente.
 ```shell
 qgis

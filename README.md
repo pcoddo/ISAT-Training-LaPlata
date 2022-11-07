@@ -523,7 +523,7 @@ The terminal should now display the activated environment:
 
 ![plata-activated](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/plata-activated.PNG)
 
-### 2.5. Test Installation
+### 2.5. Test installation
 Check to see if QGIS installed successfully:
 ```shell
 qgis
@@ -533,7 +533,7 @@ The application should open in a new window. Once it does, try opening the `Cuen
 
 ![test-map](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/test-map.PNG)
 
-### 2.6. Updating Conda Environment
+### 2.6. Updating Conda environment
 The presenters may make updates to this repository as the workshop progresses. To ensure you have the latest version of the materials, you may need to update your local files with any recent changes.
 
 1. First, ensure "plata" environment is activated:
