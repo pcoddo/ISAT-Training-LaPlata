@@ -60,7 +60,7 @@ Contém instruções de instalação, agenda e materiais de treinamento para o w
         <td>ISAT</td>
     </tr>
     <tr>
-        <td>12:00-13:00</td>
+        <td>12:00-1:00</td>
         <td colspan="3">Almoço</td>
     </tr>
 </table>
@@ -70,41 +70,41 @@ Contém instruções de instalação, agenda e materiais de treinamento para o w
         <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_1"><b>Sessão 1: Introdução ao Sensoriamento Remoto Hidrológico</b></a></th>
     </tr>
     <tr>
-        <th>Hora</th>
+        <th>Hora&emsp;&emsp;&emsp;</th>
         <th>Título e tópicos&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
         <th>Tipo&emsp;&emsp;&emsp;&emsp;</td>
         <th>Apresentador&emsp;&emsp;</th>
     </tr>
     <tr>
-        <td>13:00-14:00</td>
+        <td>1:00-2:00</td>
         <td>Introdução aos Princípios de Sensoriamento Remoto</td>
         <td>Apresentação</td>
         <td>NASA</td>
     </tr>
     <tr>
-        <td>14:00-15:00</td>
+        <td>2:00-3:00</td>
         <td>Visão geral do sensoriamento remoto de cobertura do solo</td>
         <td>Apresentação</td>
         <td>NASA</td>
     </tr>
     <tr>
-        <td>15:00-15:30</td>
+        <td>3:00-3:30</td>
         <td colspan="3">Pausa</td>
     </tr>
     <tr>
-        <td>15:30-16:30</td>
+        <td>3:30-4:30</td>
         <td>Acessando e Examinando a Cobertura da Terra</td>
         <td>Exercício</td>
         <td>NASA</td>
     </tr>
     <tr>
-        <td>16:30-17:00</td>
+        <td>4:30-5:00</td>
         <td>Discussão de fim de dia</td>
         <td>Discussão</td>
         <td>ISAT</td>
     </tr>
     <tr>
-        <td>17:30-18:15</td>
+        <td>5:30-6:15</td>
         <td>Recepção de boas-vindas no dia de abertura</td>
         <td>Evento</td>
         <td>CIC</td>
@@ -152,13 +152,13 @@ Contém instruções de instalação, agenda e materiais de treinamento para o w
         <td>NASA</td>
     </tr>
     <tr>
-        <td>12:00-13:00</td>
+        <td>12:00-1:00</td>
         <td>Acessar &amp; Análise do MODIS NDVI</td>
         <td>Exercício</td>
         <td>NASA</td>
     </tr>
     <tr>
-        <td>13:00-14:00</td>
+        <td>1:00-2:00</td>
         <td colspan="3">Almoço</td>
     </tr>
 </table>
@@ -168,41 +168,41 @@ Contém instruções de instalação, agenda e materiais de treinamento para o w
         <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_2B"><b>Sessão 2B: Umidade do Solo &amp; Evapotranspiração</b></a></th>
     </tr>
     <tr>
-        <th>Hora</th>
+        <th>Hora&emsp;&emsp;&emsp;</th>
         <th>Título e tópicos&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
         <th>Tipo&emsp;&emsp;&emsp;&emsp;</td>
         <th>Apresentador&emsp;&emsp;</th>
     </tr>
     <tr>
-        <td>14:00-14:30</td>
+        <td>2:00-2:30</td>
         <td>Introdução ao SMAP</td>
         <td>Apresentação</td>
         <td>NASA</td>
     </tr>
     <tr>
-        <td>14:30-15:30</td>
+        <td>2:30-3:30</td>
         <td>Acesso a dados SMAP &amp; Análise</td>
         <td>Exercício</td>
         <td>NASA</td>
     </tr>
     <tr>
-        <td>15:30-16:00</td>
+        <td>3:30-4:00</td>
         <td colspan="3">Pausa</td>
     </tr>
     <tr>
-        <td>16:00-16:30</td>
+        <td>4:00-4:30</td>
         <td>Introdução ao acesso à evapotranspiração</td>
         <td>Apresentação</td>
         <td>USAR</td>
     </tr>
     <tr>
-        <td>16:30-17:00</td>
+        <td>4:30-5:00</td>
         <td>Acessar ET baseado em Landsat</td>
         <td>Exercício</td>
         <td>USAR</td>
     </tr>
     <tr>
-        <td>17:00-17:30</td>
+        <td>5:00-5:30</td>
         <td>Perguntas/Discussão de fim de dia</td>
         <td>Discussão</td>
         <td>ISAT</td>
@@ -257,7 +257,7 @@ Contém instruções de instalação, agenda e materiais de treinamento para o w
         <td>ISAT</td>
     </tr>
     <tr>
-        <td>12:30-13:30</td>
+        <td>12:30-1:30</td>
         <td colspan="3">Almoço</td>
     </tr>
 </table>
@@ -267,41 +267,41 @@ Contém instruções de instalação, agenda e materiais de treinamento para o w
         <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_3B"><b>Sessão 3B: Qualidade da Água</b> </a></th>
     </tr>
     <tr>
-        <th>Hora</th>
+        <th>Hora&emsp;&emsp;&emsp;</th>
         <th>Título e tópicos&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
         <th>Tipo&emsp;&emsp;&emsp;&emsp;</td>
         <th>Apresentador&emsp;&emsp;</th>
     </tr>
     <tr>
-        <td>13:30-14:00</td>
+        <td>1:30-2:00</td>
         <td>Introdução ao Sensoriamento Remoto da Qualidade da Água</td>
         <td>Apresentação</td>
         <td>NASA</td>
     </tr>
     <tr>
-        <td>14:00-15:00</td>
+        <td>2:00-3:00</td>
         <td>Aplicativos de sensoriamento remoto de qualidade da água</td>
         <td>Exercício</td>
         <td>NASA</td>
     </tr>
     <tr>
-        <td>15:00-15:30</td>
+        <td>3:00-3:30</td>
         <td colspan="3">Pausa</td>
     </tr>
     <tr>
-        <td>15:30-16:00</td>
+        <td>3:30-4:00</td>
         <td>Índice de Saúde da Água Doce</td>
         <td>Apresentação</td>
         <td>IC</td>
     </tr>
     <tr>
-        <td>16:00-16:30</td>
+        <td>4:00-4:30</td>
         <td>Perguntas e respostas</td>
         <td>Discussão</td>
         <td>ISAT</td>
     </tr>
     <tr>
-        <td>16:30-17:00</td>
+        <td>4:30-5:00</td>
         <td>Perguntas/Discussão de fim de dia</td>
         <td>Discussão</td>
         <td>ISAT</td>
@@ -314,7 +314,7 @@ Contém instruções de instalação, agenda e materiais de treinamento para o w
         <td colspan="4">Visita de campo</th>
     </tr>
     <tr>
-        <th>Hora</th>
+        <th>Hora&emsp;&emsp;&emsp;</th>
         <th>Título e tópicos&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
         <th>Tipo&emsp;&emsp;&emsp;&emsp;</td>
         <th>Apresentador&emsp;&emsp;</th>
@@ -326,7 +326,7 @@ Contém instruções de instalação, agenda e materiais de treinamento para o w
         <td>CIC</td>
     </tr>
     <tr>
-        <td>13:00-14:00</td>
+        <td>1:00-2:00</td>
         <td colspan="3">Almoço</td>
     </tr>
 </table>
@@ -335,25 +335,25 @@ Contém instruções de instalação, agenda e materiais de treinamento para o w
     <tr>
         <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_4"><b>Sessão 4: Introdução à modelagem de superfície terrestre</b></a></th>
     <tr>
-        <th>Hora</th>
+        <th>Hora&emsp;&emsp;&emsp;</th>
         <th>Título e tópicos&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
         <th>Tipo&emsp;&emsp;&emsp;&emsp;</td>
         <th>Apresentador&emsp;&emsp;</th>
     </tr>
     <tr>
-        <td>14:00-14:45</td>
+        <td>2:00-2:45</td>
         <td>Visão geral da assimilação global de dados terrestres (GLDAS)</td>
         <td>Apresentação</td>
         <td>USAR</td>
     </tr>
     <tr>
-        <td>14:45-15:30</td>
+        <td>2:45-3:30</td>
         <td>Resumo dos componentes do orçamento de águas superficiais</td>
         <td>Apresentação</td>
         <td>UVA</td>
     </tr>
     <tr>
-        <td>15:30-4:00</td>
+        <td>3:30-4:00</td>
         <td colspan="3">Pausa</td>
     </tr>
     <tr>
@@ -398,14 +398,44 @@ Contém instruções de instalação, agenda e materiais de treinamento para o w
          <td>NASA</td>
      </tr>
      <tr>
-         <td>12:00-13:00</td>
+         <td>12:00-1:00</td>
          <td>Introdução ao Sistema de Modelagem Hidrológica (HEC-HMS) e ao Sistema de Informação de Terras (LIS)</td>
          <td>Apresentação</td>
          <td>USACE/NASA</td>
      </tr>
      <tr>
-         <td>13:00-14:00</td>
+         <td>1:00-2:00</td>
          <td colspan="3">Almoço</td>
+     </tr>
+</table>
+
+<table style="text-align:left">
+    <tr>
+        <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_5B"><b>Sessão 5B: Debrief &amp; Direções futuras</b></a></th>
+    </tr>
+    <tr>
+        <th>Hora&emsp;&emsp;&emsp;</th>
+        <th>Título e tópicos&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
+        <th>Tipo&emsp;&emsp;&emsp;&emsp;</td>
+        <th>Apresentador&emsp;&emsp;</th>
+    </tr>
+    <tr>
+         <td>2:00-3:00</td>
+         <td>Estudo de caso DSS: Lima, Peru</td>
+         <td>Apresentação</td>
+         <td>RTI</td>
+     </tr>
+     <tr>
+         <td>3:00-4:00</td>
+         <td>Debrief de treinamento (reflexões sobre a semana, instruções para treinamentos futuros)</td>
+         <td>Discussão</td>
+         <td>ISAT/CIC</td>
+     </tr>
+     <tr>
+         <td>4:00</td>
+         <td>Fechar</td>
+         <td>Discussão</td>
+         <td>ISAT/CIC</td>
      </tr>
 </table>
 
