@@ -70,7 +70,7 @@ Contains installation instructions, agenda, and training materials for the Inter
         <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_1"><b>Sesión 1: Introducción a la Teledetección Hidrológica</b></a></th>
     </tr>
     <tr>
-        <th>Tiempo&emsp;&emsp;&emsp;</th>
+<th>Tiempo</th>
         <th>Título y temas&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
         <th>Tipo&emsp;&emsp;&emsp;&emsp;</td>
         <th>Presentador&emsp;&emsp;</th>
@@ -168,7 +168,7 @@ Contains installation instructions, agenda, and training materials for the Inter
         <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_2B"><b>Sesión 2B: Humedad del suelo &amp; Evapotranspiración</b></a></th>
     </tr>
     <tr>
-        <th>Tiempo&emsp;&emsp;&emsp;</th>
+<th>Tiempo</th>
         <th>Título y temas&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
         <th>Tipo&emsp;&emsp;&emsp;&emsp;</td>
         <th>Presentador&emsp;&emsp;</th>
@@ -267,7 +267,7 @@ Contains installation instructions, agenda, and training materials for the Inter
         <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_3B"><b>Sesión 3B: Calidad del agua</b></a></th>
     </tr>
     <tr>
-        <th>Tiempo&emsp;&emsp;&emsp;</th>
+<th>Tiempo</th>
         <th>Título y temas&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
         <th>Tipo&emsp;&emsp;&emsp;&emsp;</td>
         <th>Presentador&emsp;&emsp;</th>
@@ -314,7 +314,7 @@ Contains installation instructions, agenda, and training materials for the Inter
         <td colspan="4">Visita de campo</th>
     </tr>
     <tr>
-        <th>Tiempo&emsp;&emsp;&emsp;</th>
+<th>Tiempo</th>
         <th>Título y temas&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
         <th>Tipo&emsp;&emsp;&emsp;&emsp;</td>
         <th>Presentador&emsp;&emsp;</th>
@@ -335,7 +335,7 @@ Contains installation instructions, agenda, and training materials for the Inter
     <tr>
         <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_4"><b>Sesión 4: Introducción al modelado de la superficie terrestre</b></a></th>
     <tr>
-        <th>Tiempo&emsp;&emsp;&emsp;</th>
+<th>Tiempo</th>
         <th>Título y temas&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
         <th>Tipo&emsp;&emsp;&emsp;&emsp;</td>
         <th>Presentador&emsp;&emsp;</th>
@@ -414,7 +414,7 @@ Contains installation instructions, agenda, and training materials for the Inter
         <td colspan="4"><a href="https://github.com/pcoddo/ISAT-Training-LaPlata/tree/main/Sessions/Session_5B"><b>Sesión 5B: Informe de capacitación y amp; Direcciones futuras</b></a></th>
     </tr>
     <tr>
-        <th>Tiempo&emsp;&emsp;&emsp;</th>
+<th>Tiempo</th>
         <th>Título y temas&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
         <th>Tipo&emsp;&emsp;&emsp;&emsp;</td>
         <th>Presentador&emsp;&emsp;</th>
