@@ -21,8 +21,10 @@ Contém instruções de instalação, agenda e materiais de treinamento para o w
         <li><a href="#23-baixe-os-materiais-de-treinamento">2.3. Baixe os materiais de treinamento</a></li>
         <li><a href="#24-criar-ambiente-conda">2.4. Criar ambiente conda</a></li>
         <li><a href="#25-testar-a-instalação">2.5. Testar a instalação</a></li>
+        <li><a href="#26-atualizando-o-software Conda">2.6. Atualizando o software Conda
       </ul>
-    <li><a href="#3-reconhecimentos">3. Reconhecimentos</a>
+    <li><a href="#3-recursos-úteis">3. Recursos Úteis
+    <li><a href="#4-reconhecimentos">4. Reconhecimentos</a>
     </li>
   </ul>
 </div>
@@ -533,7 +535,7 @@ cd Training_materials/
 git clone https://github.com/pcoddo/ISAT-Training-LaPlata.git
 ```
 
-### 2.4. Criar ambiente conda
+### 2.4. Criar ambiente Conda
 Crie um ambiente conda usando o arquivo `environment.yml` fornecido:
 ```shell
 conda env create -f environment.yml
@@ -560,7 +562,73 @@ O aplicativo deve abrir em uma nova janela. Feito isso, tente abrir o arquivo de
 
 ![test-map](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/install/test-map.PNG)
 
-## 3. Reconhecimentos
+### 2.6. Atualizando o software Conda
+Os apresentadores podem fazer atualizações neste repositório à medida que o workshop avança. Para garantir que você tenha a versão mais recente dos materiais, talvez seja necessário atualizar seus arquivos locais com as alterações recentes.
+
+1. Primeiro, certifique-se de que o ambiente "plata" esteja ativado:
+```shell
+conda activate plata
+```
+
+2. Em seguida, navegue até a pasta de treinamento (por exemplo, "C:\Users\Name\Documents\Training_materials\ISAT-Training_LaPlata\") e baixe os arquivos mais recentes:
+```shell
+cd Documents/
+cd Training_materials/
+cd ISAT-Training_LaPlata/
+```
+
+3. Por fim, baixe os arquivos mais recentes:
+```shell
+git pull
+```
+
+## 3. Recursos Úteis
+### <u>Fontes de dados diretas</u>
+* [**USGS Earth Explorer**](https://earthexplorer.usgs.gov)
+	* [Landsat](https://landsat.gsfc.nasa.gov/)
+    * [Sentinel-2](https://sentinel.esa.int/web/sentinel/missions/sentinel-2)
+    * [SRTM](https://www2.jpl.nasa.gov/srtm/)
+* [**Copernicus Open Access Hub**](https://scihub.copernicus.eu/dhus/#/home)
+  * Sentinel-1 - Synthetic Aperture Radar (SAR)
+  * Sentinel-2
+  * Sentinel-3
+  * [Sentinel-5P](https://earth.esa.int/web/guest/missions/esa-eo-missions/sentinel-5p) 
+* [**NASA EARTHDATA**](https://earthdata.nasa.gov/)
+  * [Alaska Satellite Facility](https://asf.alaska.edu/), a source for current and historic RADAR data
+* [**GEO on AWS**](https://registry.opendata.aws/?search=tags:gis,earth%20observation,events,mapping,meteorological,environmental,transportation)
+     
+### <u>Visualizadores de dados e Imagens</u>
+* [**NASA Worldview**](https://worldview.earthdata.nasa.gov/)
+	* Satellite data
+* [**NOAA View**](https://www.nnvl.noaa.gov/view/globaldata.html)
+	* Ocean, land and atmospheric data
+* [**Resource Watch**](https://resourcewatch.org/data/explore)
+	* Hundreds of data sets on the state of the planet’s resources and citizens
+* [**Global Forest Watch**](https://www.globalforestwatch.org/map)
+	* Data, technology and tools tobetter protect forests
+
+### <u>Fontes de imagens Comercial</u>
+* [**Google Earth Engine**](https://developers.google.com/earth-engine/datasets/)
+  * Cloud-based implementation with dozens of available datasets
+* [**Planet**](https://www.planet.com/)
+  * High temporal resolution
+  * Relatively high spatial resolution
+  * Relatively low spectral resolution
+* [**Maxar**](https://www.maxar.com/)
+	* High resolution RGB and synthetic-aperture radar data.
+* [**Iceye**](https://www.iceye.com/)
+	* High spatial and temporal resolution synthetic-aperture radar data
+* [**Airbus**](https://www.intelligence-airbusds.com/optical-and-radar-data/)
+ 	* High resolution RGB and synthetic-aperture radar imagery. 
+* [**Blacksky**](https://www.blacksky.com/)
+  * Plan for high temporal resolution
+  * Relatively high spatial resolution
+  * Relatively low spectral resolution
+
+<sup>Algumas das fontes acima foram extraídas do repositório [nicar20-imagery-sources](https://github.com/timwallace/nicar20-imagery-sources) por [Tim Wallace](https://github.com /timwallace)<sub>
+
+
+## 4. Reconhecimentos
 Esses materiais baseiam-se em treinamentos anteriores desenvolvidos pelo Programa NASA Advanced Remote Sensing Training [(ARSET)](https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset). Agradecimentos especiais ao [Dr. Amita Mehta](https://sciences.gsfc.nasa.gov/sed/bio/amita.v.mehta), [Dr. Erika Podest](https://science.jpl.nasa.gov/people/podest/), [Dr. Ana Prados](https://jcet.umbc.edu/jcet-faculty/person/ed05369/) e o restante da equipe ARSET por fornecer esses materiais! Obrigado também a Aarti Arora por ajudar a desenhar a agenda da reunião.
 
 
