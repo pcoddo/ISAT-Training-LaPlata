@@ -21,7 +21,7 @@ Contém instruções de instalação, agenda e materiais de treinamento para o w
         <li><a href="#23-baixe-os-materiais-de-treinamento">2.3. Baixe os materiais de treinamento</a></li>
         <li><a href="#24-criar-ambiente-conda">2.4. Criar ambiente conda</a></li>
         <li><a href="#25-testar-a-instalação">2.5. Testar a instalação</a></li>
-        <li><a href="#26-atualizando-o-software Conda">2.6. Atualizando o software Conda
+        <li><a href="#26-atualizando-o-software-conda">2.6. Atualizando o software Conda
       </ul>
     <li><a href="#3-recursos-úteis">3. Recursos Úteis
     <li><a href="#4-reconhecimentos">4. Reconhecimentos</a>
