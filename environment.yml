@@ -4,12 +4,15 @@ channels:
   - defaults
 dependencies:
   - qgis
-  - git
-  - r-nasaaccess
-  - ipython
-  - notebook
   - nb_conda_kernels
-  - r-irkernel
-  - r-codetools
   - matplotlib
+  - notebook
+  - r-irkernel
+  - jupyter_contrib_nbextensions
+  - ipython
+  - r-codetools
+  - r-nasaaccess
+  - git
+  - r-xts
+  - r-maps
 prefix: C:\Users\poddo\Miniconda3\envs\plata
