@@ -496,10 +496,9 @@ conda install -c conda-forge git
 When asked to Proceed, type **"y"**
 
 
-3. Navigate to desired working directory (e.g. "C:\Users\Name\Documents\Training_materials"):
+3. Navigate to desired working directory (e.g. "C:\Users\Name\Documents"):
 ```shell
-cd Documents/
-cd Training_materials/
+cd Documents
 ```
 
 4. Clone repository to working directory:
@@ -542,11 +541,10 @@ The presenters may make updates to this repository as the workshop progresses. T
 conda activate plata
 ```
 
-2. Next, navigate to the training folder (e.g. "C:\Users\Name\Documents\Training_materials\ISAT-Training_LaPlata\") and download latest files:
+2. Next, navigate to the training folder (e.g. "C:\Users\Name\Documents\ISAT-Training-LaPlata") and download latest files:
 ```shell
-cd Documents/
-cd Training_materials/
-cd ISAT-Training_LaPlata/
+cd Documents
+cd ISAT-Training-LaPlata
 ```
 
 3. Finally, download latest files:

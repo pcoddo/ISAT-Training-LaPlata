@@ -494,10 +494,9 @@ conda install -c conda-forge git
 Quando solicitado a continuar, digite **"y"**
 
 
-3. Navegue até o diretório de trabalho desejado (por exemplo, "C:\Users\Name\Documents\Training_materials"):
+3. Navegue até o diretório de trabalho desejado (por exemplo, "C:\Users\Name\Documents"):
 ```shell
-cd Documents/
-cd Training_materials/
+cd Documents
 ```
 
 4. Clonar o repositório para o diretório de trabalho:
@@ -540,11 +539,10 @@ Os apresentadores podem fazer atualizações neste repositório à medida que o 
 conda activate plata
 ```
 
-2. Em seguida, navegue até a pasta de treinamento (por exemplo, "C:\Users\Name\Documents\Training_materials\ISAT-Training_LaPlata\") e baixe os arquivos mais recentes:
+2. Em seguida, navegue até a pasta de treinamento (por exemplo, "C:\Users\Name\Documents\ISAT-Training-LaPlata") e baixe os arquivos mais recentes:
 ```shell
-cd Documents/
-cd Training_materials/
-cd ISAT-Training_LaPlata/
+cd Documents
+cd ISAT-Training-LaPlata
 ```
 
 3. Por fim, baixe os arquivos mais recentes:
