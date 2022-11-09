@@ -79,7 +79,7 @@ Contains installation instructions, agenda, and training materials for the Inter
     </tr>
     <tr>
         <td>1:00-2:00</td>
-        <td>Introducción a los principios de la teledetección</td>
+        <td>Fundamentos de la teledetección</td>
         <td>Presentación</td>
         <td>NASA</td>
     </tr>
@@ -275,26 +275,26 @@ Contains installation instructions, agenda, and training materials for the Inter
         <th>Presentador&emsp;&emsp;</th>
     </tr>
     <tr>
-        <td>1:30-2:00</td>
-        <td>Introducción a la percepción remota de la calidad del agua</td>
-        <td>Presentación</td>
-        <td>NASA</td>
-    </tr>
-    <tr>
-        <td>2:00-3:00</td>
-        <td>Aplicaciones de teledetección de la calidad del agua</td>
-        <td>Ejercicio</td>
-        <td>NASA</td>
-    </tr>
-    <tr>
-        <td>3:00-3:30</td>
-        <td colspan="3">Pausa</td>
-    </tr>
-    <tr>
-        <td>3:30-4:00</td>
-        <td>Índice de Salud del Agua Dulce</td>
-        <td>Presentación</td>
-        <td>CI</td>
+         <td>1:30-2:00</td>
+         <td>Índice de Salud del Agua Dulce (FHI)</td>
+         <td>Presentación</td>
+         <td>CI</td>
+     </tr>
+     <tr>
+         <td>2:00-2:30</td>
+         <td>Introducción a la percepción remota de la calidad del agua</td>
+         <td>Presentación</td>
+         <td>NASA</td>
+     </tr>
+     <tr>
+         <td>2:30-3:00</td>
+         <td colspan="3">Pausa</td>
+     </tr>
+     <tr>
+         <td>3:00-4:00</td>
+         <td>Aplicaciones de detección remota de calidad del agua</td>
+         <td>Ejercicio</td>
+         <td>NASA</td>
     </tr>
     <tr>
         <td>4:00-4:30</td>

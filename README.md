@@ -80,7 +80,7 @@ Contains installation instructions, agenda, and training materials for the Inter
     </tr>
     <tr>
         <td>1:00-2:00</td>
-        <td>Introduction to Remote Sensing Principles</td>
+        <td>Fundamentals of Remote Sensing</td>
         <td>Presentation</td>
         <td>NASA</td>
     </tr>
@@ -260,7 +260,7 @@ Contains installation instructions, agenda, and training materials for the Inter
         <td>ISAT</td>
     </tr>
     <tr>
-        <td>12:30-13:30</td>
+        <td>12:30-1:30</td>
         <td colspan="3">Lunch</td>
     </tr>
 </table>
@@ -276,26 +276,26 @@ Contains installation instructions, agenda, and training materials for the Inter
         <th>Presenter&emsp;&emsp;</th>
     </tr>
     <tr>
-        <td>13:30-2:00</td>
+        <td>1:30-2:00</td>
+        <td>Freshwater Health Index (FHI)</td>
+        <td>Presentation</td>
+        <td>CI</td>
+    </tr>
+    <tr>
+        <td>2:00-2:30</td>
         <td>Introduction to Water Quality Remote Sensing</td>
         <td>Presentation</td>
         <td>NASA</td>
     </tr>
     <tr>
-        <td>2:00-3:00</td>
-        <td>Water Quality Remote Sensing Applications</td>
-        <td>Exercise</td>
-        <td>NASA</td>
-    </tr>
-    <tr>
-        <td>3:00-3:30</td>
+        <td>2:30-3:00</td>
         <td colspan="3">Break</td>
     </tr>
     <tr>
-        <td>3:30-4:00</td>
-        <td>Freshwater Health Index</td>
-        <td>Presentation</td>
-        <td>CI</td>
+        <td>3:00-4:00</td>
+        <td>Water Quality Rmote Sensing Applications</td>
+        <td>Exercise</td>
+        <td>NASA</td>
     </tr>
     <tr>
         <td>4:00-4:30</td>

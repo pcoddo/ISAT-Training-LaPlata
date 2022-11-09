@@ -79,7 +79,7 @@ Contém instruções de instalação, agenda e materiais de treinamento para o w
     </tr>
     <tr>
         <td>1:00-2:00</td>
-        <td>Introdução aos Princípios de Sensoriamento Remoto</td>
+        <td>Fundamentos de Sensoriamento Remoto</td>
         <td>Apresentação</td>
         <td>NASA</td>
     </tr>
@@ -275,26 +275,26 @@ Contém instruções de instalação, agenda e materiais de treinamento para o w
         <th>Apresentador&emsp;&emsp;</th>
     </tr>
     <tr>
-        <td>1:30-2:00</td>
-        <td>Introdução ao Sensoriamento Remoto da Qualidade da Água</td>
-        <td>Apresentação</td>
-        <td>NASA</td>
-    </tr>
-    <tr>
-        <td>2:00-3:00</td>
-        <td>Aplicativos de sensoriamento remoto de qualidade da água</td>
-        <td>Exercício</td>
-        <td>NASA</td>
-    </tr>
-    <tr>
-        <td>3:00-3:30</td>
-        <td colspan="3">Pausa</td>
-    </tr>
-    <tr>
-        <td>3:30-4:00</td>
-        <td>Índice de Saúde da Água Doce</td>
-        <td>Apresentação</td>
-        <td>IC</td>
+         <td>1:30-2:00</td>
+         <td>Índice de Saúde de Água Doce (FHI)</td>
+         <td>Apresentação</td>
+         <td>CI</td>
+     </tr>
+     <tr>
+         <td>2:00-2:30</td>
+         <td>Introdução ao Sensoriamento Remoto da Qualidade da Água</td>
+         <td>Apresentação</td>
+         <td>NASA</td>
+     </tr>
+     <tr>
+         <td>2:30-3:00</td>
+         <td colspan="3">Pausa</td>
+     </tr>
+     <tr>
+         <td>3:00-4:00</td>
+         <td>Aplicativos de sensoriamento remoto da qualidade da água</td>
+         <td>Exercício</td>
+         <td>NASA</td>
     </tr>
     <tr>
         <td>4:00-4:30</td>
