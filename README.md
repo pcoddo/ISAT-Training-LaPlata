@@ -7,6 +7,11 @@
 [![Español](https://img.shields.io/badge/Traducir-Espa%C3%B1ol-orange)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/main/Files/README.es.md)
 [![Português](https://img.shields.io/badge/Traduzir-Portugu%C3%AAs-brightgreen)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/main/Files/README.pt-br.md)
 
+<!-- html badges
+[![Español](https://img.shields.io/badge/Traducir-Espa%C3%B1ol-orange)](src/Agenda_es.html)
+[![Português](https://img.shields.io/badge/Traduzir-Portugu%C3%AAs-brightgreen)](src/Agenda_pt.html)
+-->
+
 ## About
 This repository contains the agenda, installation instructions, and training materials for the Interagency Water Working Group (ISAT) workshop, *Building Capacity on Scientifically Robust Tools and Methodologies for IWRM in La Plata Basin: Data Access.* This worksop was conducted in Buenos Aires in November, 2022, and was organized in partnership with the Organization of American States (OAS) and the Comité Intergubernamental Coordinador de los Países de la Cuenca del Plata (CIC).
 
