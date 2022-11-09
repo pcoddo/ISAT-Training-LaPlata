@@ -1,7 +1,7 @@
 <!-- Header -->
 ![Header](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/header.png)
 
-#Data and Science for Decision Making in Transboundary Waters in Latin American and the Caribbean (LAC)
+# **Data and Science for Decision Making in Transboundary Waters in Latin American and the Caribbean (LAC)**
 
 <!-- Badges -->
 [![Español](https://img.shields.io/badge/Traducir-Espa%C3%B1ol-orange)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/main/Files/README.es.md)

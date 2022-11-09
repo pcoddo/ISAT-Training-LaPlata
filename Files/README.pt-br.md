@@ -1,13 +1,13 @@
 <!-- Header -->
 ![Header](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/header.png)
 
-# **ISAT-Training-LaPlata**
+# **Dados e ciência para a tomada de decisões em águas transfronteiriças na América Latina e no Caribe (ALC)**
 <!-- Badges -->
 [![Español](https://img.shields.io/badge/Traducir-Espa%C3%B1ol-orange)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/main/Files/README.es.md)
 [![English](https://img.shields.io/badge/Translate-English-blue)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/master/README.md)
 
 ## Resumo
-Contém instruções de instalação, agenda e materiais de treinamento para o workshop do Interagency Water Working Group (ISAT) realizado em Buenos Aires, Argentina, em novembro de 2022. Workshop organizado em parceria com a Organização dos Estados Americanos (OEA) e o Comitê Intergubernamental Coordinador de los Países de la Cuenca del Plata (CIC).
+Este repositório contém a agenda, instruções de instalação e materiais de treinamento para o workshop do Grupo de Trabalho Interagências sobre Água (ISAT), *Capacitação em ferramentas e metodologias cientificamente sólidas para GIRH na Bacia do Prata: Acesso a dados.* Este workshop foi realizado em Buenos Aires em novembro de 2022, e foi organizado em parceria com a Organização dos Estados Americanos (OEA) e o Comité Intergubernamental Coordinador de los Países de la Cuenca del Plata (CIC).
 
 ---
 ## O Índice Analítico
