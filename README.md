@@ -155,13 +155,13 @@ Contains installation instructions, agenda, and training materials for the Inter
         <td>NASA</td>
     </tr>
     <tr>
-        <td>12:00-13:00</td>
+        <td>12:00-1:00</td>
         <td>Access &amp; Analysis of MODIS NDVI</td>
         <td>Excercise</td>
         <td>NASA</td>
     </tr>
     <tr>
-        <td>13:00-2:00</td>
+        <td>1:00-2:00</td>
         <td colspan="3">Lunch</td>
     </tr>
 </table>
@@ -329,7 +329,7 @@ Contains installation instructions, agenda, and training materials for the Inter
         <td>CIC</td>
     </tr>
     <tr>
-        <td>13:00-2:00</td>
+        <td>1:00-2:00</td>
         <td colspan="3">Lunch</td>
     </tr>
 </table>
@@ -401,13 +401,13 @@ Contains installation instructions, agenda, and training materials for the Inter
         <td>NASA</td>
     </tr>
     <tr>
-        <td>12:00-13:00</td>
+        <td>12:00-1:00</td>
         <td>Intro to Hydrologic Modeling System (HEC-HMS) & Land Information System (LIS)</td>
         <td>Presentation</td>
         <td>USACE/NASA</td>
     </tr>
     <tr>
-        <td>13:00-2:00</td>
+        <td>1:00-2:00</td>
         <td colspan="3">Lunch</td>
     </tr>
 </table>
