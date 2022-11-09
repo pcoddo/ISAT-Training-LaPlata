@@ -1,13 +1,14 @@
 <!-- Header -->
 ![Header](https://raw.githubusercontent.com/pcoddo/ISAT-Training-LaPlata/main/img/header.png)
 
-# **ISAT-Training-LaPlata**
+#Data and Science for Decision Making in Transboundary Waters in Latin American and the Caribbean (LAC)
+
 <!-- Badges -->
 [![Español](https://img.shields.io/badge/Traducir-Espa%C3%B1ol-orange)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/main/Files/README.es.md)
 [![Português](https://img.shields.io/badge/Traduzir-Portugu%C3%AAs-brightgreen)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/main/Files/README.pt-br.md)
 
 ## About
-Contains installation instructions, agenda, and training materials for the Interagency Water Working Group (ISAT) workshop conducted in Buenos Aires, Argentina, November 2022. Workshop organized in partnership with the Organization of American States (OAS) and the Comité Intergubernamental Coordinador de los Países de la Cuenca del Plata (CIC).
+This repository contains the agenda, installation instructions, and training materials for the Interagency Water Working Group (ISAT) workshop, *Building Capacity on Scientifically Robust Tools and Methodologies for IWRM in La Plata Basin: Data Access.* This worksop was conducted in Buenos Aires in November, 2022, and was organized in partnership with the Organization of American States (OAS) and the Comité Intergubernamental Coordinador de los Países de la Cuenca del Plata (CIC).
 
 ---
 ## Table of Contents
