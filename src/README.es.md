@@ -4,7 +4,7 @@
 # **Datos y Ciencia para la Toma de Decisiones en Aguas transfronterizas en América Latina y el Caribe (ALC)**
 <!-- Badges -->
 [![English](https://img.shields.io/badge/Translate-English-blue)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/master/README.md)
-[![Português](https://img.shields.io/badge/Traduzir-Portugu%C3%AAs-brightgreen)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/main/Files/README.pt-br.md)
+[![Português](https://img.shields.io/badge/Traduzir-Portugu%C3%AAs-brightgreen)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/main/src/README.pt-br.md)
 
 ## Resumen
 Este repositorio contiene la agenda, las instrucciones de instalación y los materiales de capacitación para el taller del Grupo de trabajo interinstitucional sobre agua (ISAT), *Creando Capacidades sobre Herramientas y Metodologías Científicamente Sólidas para la GIRH en la Cuenca del Plata: Acceso a Datos.* Este taller se llevó a cabo en Buenos Aires. en noviembre de 2022, y fue organizado en alianza con la Organización de los Estados Americanos (OEA) y el Comité Intergubernamental Coordinador de los Países de la Cuenca del Plata (CIC).
