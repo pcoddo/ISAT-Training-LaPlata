@@ -623,7 +623,9 @@ conda install -c conda-forge git</pre></div>
 <div class="highlight highlight-source-shell"><pre>git clone https://github.com/pcoddo/ISAT-Training-LaPlata.git</pre></div>
 <h3><a id="user-content-24-criar-ambiente-conda" class="anchor" aria-hidden="true" href="#24-criar-ambiente-conda"><span aria-hidden="true" class="octicon octicon-link"></span></a>2.4. Criar ambiente Conda</h3>
 <p>Crie um ambiente conda usando o arquivo <code>environment.yml</code> fornecido:</p>
-<div class="highlight highlight-source-shell"><pre>conda env create -f environment.yml</pre></div>
+<div class="highlight highlight-source-shell"><pre><span class="pl-c1">cd</span> ISAT-Training-LaPlata
+
+conda env create -f environment.yml</pre></div>
 <p>Este ambiente deve instalar todos os softwares e pacotes necessários para o treinamento. Dependendo da velocidade da Internet e do processador, <strong>isso pode levar vários minutos.</strong></p>
 <p>Ativar novo ambiente:</p>
 <div class="highlight highlight-source-shell"><pre>conda activate plata</pre></div>
