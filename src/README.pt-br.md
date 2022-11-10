@@ -507,6 +507,7 @@ git clone https://github.com/pcoddo/ISAT-Training-LaPlata.git
 ### 2.4. Criar ambiente Conda
 Crie um ambiente conda usando o arquivo `environment.yml` fornecido:
 ```shell
+cd ISAT-Training-LaPlata
 conda env create -f environment.yml
 ```
 
