@@ -4,8 +4,8 @@
 # **Data and Science for Decision Making in Transboundary Waters in Latin American and the Caribbean (LAC)**
 
 <!-- Badges -->
-[![Español](https://img.shields.io/badge/Traducir-Espa%C3%B1ol-orange)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/main/Files/README.es.md)
-[![Português](https://img.shields.io/badge/Traduzir-Portugu%C3%AAs-brightgreen)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/main/Files/README.pt-br.md)
+[![Español](https://img.shields.io/badge/Traducir-Espa%C3%B1ol-orange)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/main/src/README.es.md)
+[![Português](https://img.shields.io/badge/Traduzir-Portugu%C3%AAs-brightgreen)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/main/src/README.pt-br.md)
 
 <!-- html badges
 [![Español](https://img.shields.io/badge/Traducir-Espa%C3%B1ol-orange)](src/Agenda_es.html)
