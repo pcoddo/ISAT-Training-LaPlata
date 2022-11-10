@@ -3,7 +3,7 @@
 
 # **Dados e ciência para a tomada de decisões em águas transfronteiriças na América Latina e no Caribe (ALC)**
 <!-- Badges -->
-[![Español](https://img.shields.io/badge/Traducir-Espa%C3%B1ol-orange)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/main/Files/README.es.md)
+[![Español](https://img.shields.io/badge/Traducir-Espa%C3%B1ol-orange)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/main/src/README.es.md)
 [![English](https://img.shields.io/badge/Translate-English-blue)](https://github.com/pcoddo/ISAT-Training-LaPlata/blob/master/README.md)
 
 ## Resumo
