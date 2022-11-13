@@ -15,4 +15,8 @@ dependencies:
   - git
   - r-xts
   - r-maps
+  - h5py
+  - rasterio
+  - cartopy
+  - fiona
 prefix: C:\Users\poddo\Miniconda3\envs\plata
