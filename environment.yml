@@ -17,6 +17,14 @@ dependencies:
   - r-maps
   - h5py
   - rasterio
+  - xarray
+  - rioxarray
+  - earthpy
   - cartopy
   - fiona
+  - pip
+  - pip:
+    - modis-tools==1.1.0
+    - pydantic==1.10.2
+    - tqdm==4.64.1
 prefix: C:\Users\poddo\Miniconda3\envs\plata
