@@ -6,3 +6,4 @@ Sessions/Session_1/1.2_Landcover-Remote-Sensing/1.2_Landcover-Remote-Sensing_eng
 Sessions/Session_1/1.2_Landcover-Remote-Sensing/1.2_Landcover-Remote-Sensing_spa.pptx filter=lfs diff=lfs merge=lfs -text
 C:/Users/poddo/Documents/ISAT-Training-LaPlata/Sessions/Session_1/1.2_Landcover-Remote-Sensing/1.2_Landcover-Remote-Sensing_eng filter=lfs diff=lfs merge=lfs -text
 Sessions/Session_2B/2B.1_Introduction-to-Soil-Moisture/2B.1_Introduction-to-Soil-Moisture.pptx filter=lfs diff=lfs merge=lfs -text
+Sessions/Session_3A/3A.2_MOGWAI-Exercise/Data/MOD09A1.A2022177.h12v12.006.2022186044035.hdf filter=lfs diff=lfs merge=lfs -text
