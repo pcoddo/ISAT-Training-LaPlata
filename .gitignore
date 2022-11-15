@@ -1,9 +1,10 @@
 **/Open Notebook.onetoc2
 .ipynb_checkpoints
-*/.ipynb_checkpoints/
 Admin/
 Old/
 Sessions/Session_1/1.2_Landcover-Remote-Sensing/Output
 Sessions/Session_2A/2A.2_Precipitation-Analysis/Data/Extra
 Sessions/Session_5A/5A.2_NASAaccess/INPUT
 Sessions/Session_5A/5A.2_NASAaccess/INPUT2
+Sessions/Session_2A/2A.4_MODIS-Access+Analysis/Outputs/Test
+Sessions/Session_2A/SA.4_MODIS-Access+Analysis/Data/MOD*
