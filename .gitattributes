@@ -9,3 +9,4 @@ Sessions/Session_2B/2B.1_Introduction-to-Soil-Moisture/2B.1_Introduction-to-Soil
 Sessions/Session_3A/3A.2_MOGWAI-Exercise/Data/MOD09A1.A2022177.h12v12.006.2022186044035.hdf filter=lfs diff=lfs merge=lfs -text
 Sessions/Session_2B/2B.3_Introduction-to-Evapotranspiration/2B_P2_Intro-to-Evapotranspiration.pptx filter=lfs diff=lfs merge=lfs -text
 Sessions/Session_4/4A.2_Surface-Water-Budget/4A.2_Surface-Water-Budget.pptx filter=lfs diff=lfs merge=lfs -text
+Sessions/Session_5A/5A.2_NASAaccess/5A.2_NASAaccess+SWAT-Online.pptx filter=lfs diff=lfs merge=lfs -text
